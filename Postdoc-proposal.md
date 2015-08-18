@@ -37,7 +37,7 @@ significance; 3) training objectives and plan for achieving them (these may incl
 ##Research objectives, methods, and significance
 ##Future directions/career development
 Independent researcher  
-I have a chronic illness which limits my ability to pursue the traditional academic career path, or the traditional non-academic career path.  Travel to conferences or workshops is no longer an option, I frequently don't leave my property for weeks/months, had to surrender driver's license, have periods of serious cognitive dysfunction, periods where I am reliant on a cane.  <!-- I really don't know how much to disclose.  My inclination is to gloss over it personally, but I think from a cultural changing perspective that it could be valuable to fully disclose to indicate that I've got some really significant problems but am still doing research anyway -->  I've set up my workspace at home, and have finished up my dissertation working remotely in a different timezone from my advisor.  
+I have a chronic illness which has seriously impacted my ability to function.  Travel to conferences or workshops is extremely challenging, and for the majority of events, no longer an option, I frequently don't leave my property for weeks/months, had to surrender driver's license, have periods of serious cognitive dysfunction, periods where I am reliant on a mobility assistance device.  <!-- I really don't know how much to disclose.  My inclination is to gloss over it personally, but I think from a cultural changing perspective that it could be valuable to fully disclose to indicate that I've got some really significant problems but am still doing research anyway -->  However, I am still able to remain an active researcher and am working to increase accessibility for chronically ill/disabled ecologists through computational tools, as well as a series of coping mechanism that I have developed to allow me to be as productive as possible with my condition. 
 
 Career development
 Computational ecology skills, combined with data wrangling skills and open access data provide a way for me to continue doing science without institutional support.  Working with Data and Software Carpentry to help spread the skills gives me a larger pool of potential collaborators, plus it allows me to be able to teach.
@@ -48,11 +48,15 @@ Computational ecology skills, combined with data wrangling skills and open acces
 ##Goals and benchmarks
 I think I got the data wrangling bit done.
 
-Need to learn phylogenetic analysis
+<!--Need to learn phylogenetic analysis-->
 
 Write more scripts, do things.
 
-Maybe learn more spatial analysis techniques.
+Learn more spatial analysis techniques.
+
+Learn temporal analysis techniques.
+
+I want to continue to improve my scientific programming skills.
 
 ##Broader impacts
 <!--Inadequacy of current efforts to include chronically ill researchers.-->
@@ -86,9 +90,11 @@ Data Management Plan:
 All applications must include a supplementary document of no more than two pages labeled "Data Management Plan". Describe plans for data management and sharing of the products of research, or assert the absence of the need for such plans. Upload this to Supplementary Documents–Data Management Plan.
 -->
 #Data management plan
-Research products (code) available on GitHub, version of code used in final analysis will be archived.
+Research products (code) available on GitHub, version of code used in final publication will be archived at Zenodo.
 
-Using publicly available data, so data management plan (for data) is not necessary. 
+Using publicly available data, so data management plan (for data) is not necessary for those datasets.
+
+Additional data 
 <!-- 
 Mentoring Plan:
 A complete sponsoring scientist statement consists of two
