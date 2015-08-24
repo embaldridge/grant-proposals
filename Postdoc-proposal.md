@@ -33,22 +33,34 @@ significance; 3) training objectives and plan for achieving them (these may incl
 -->
 #Project description
 ##Intro
+ 1) a brief and informative introduction or background section 
+
 
 ##Research objectives, methods, and significance
-
+2) a statement of research objectives, methods, and
+significance
 
 ##Future directions/career development
+3) training objectives and plan for achieving them (these may include scientific as well as other career preparation activities)
+
 Independent researcher  
-I have a chronic illness which has seriously impacted my ability to function in the traditional academic environment.  Travel to conferences or workshops is extremely challenging, and for the majority of events, no longer an option due to the severe health consequences that  remain as the aftereffects of travel for several weeks afterwards.  My condition has caused periods of cognitive dysfunction related to information processing and comprehension as well as periods of reliance on mobility assistance devices.  <!-- I really don't know how much to disclose.  My inclination is to gloss over it personally, but I think from a cultural changing perspective that it could be valuable to fully disclose to indicate that I've got some really significant problems but am still doing research anyway -->  Despite these challenging, I am able to remain an active researcher through a series of coping mechanism.  Besides contributing to the scientific process through research, I have been working and will continue to work to increase accessibility and awareness for chronically ill/disabled ecologists and ecologists from other under-represented groups. 
+I have a chronic illness which has seriously impacted my ability to function in the traditional academic environment.  Travel to conferences or workshops is extremely challenging, and for the majority of events, no longer an option due to the severe health consequences that  remain as the aftereffects of travel for several weeks afterwards.  My condition has caused periods of cognitive dysfunction related to information processing and comprehension as well as periods of reliance on mobility assistance devices.  <!-- I really don't know how much to disclose.  My inclination is to gloss over it personally, but I think from a cultural changing perspective that it could be valuable to fully disclose to indicate that I've got some really significant problems but am still doing research anyway -->  Despite these challenges, I am able to remain an active researcher through a series of coping mechanism.  Besides contributing to the scientific process through research, I have been working and will continue to work to increase accessibility and awareness for chronically ill/disabled ecologists and ecologists from other under-represented groups. 
 
-Career development
-Computational ecology skills, combined with data wrangling skills and open access data provide a way for me to continue doing science without institutional support.  Working with Data and Software Carpentry to help spread the skills gives me a larger pool of potential collaborators, plus it allows me to be able to teach.
+#Career development
+4) an explanation of how the fellowship activities will enhance your career development and future research directions as well as describing how this research differs from your dissertation research
 
+The combination of computational, ecoinformatics, and quantitative skills is  a rare skill set among ecologists, and one that is particularly well suited to working remotely.  Developing these skills further while engaging in remote collaborations with scientists at other institutions will provide a clear demonstration that telecommuting and remote collaboration should be a more accepted method for employment in the sciences, much as it is in the computer/tech fields.  In addition, developing these skills also provides a way for me to continue doing science without formal institutional support.  Working with Data and Software Carpentry to help spread the skills gives me a larger pool of potential collaborators, plus it allows me to be able to teach.
+
+
+ 
 
 ##Justification of sponsor(s) and host institution(s)
+5) a justification of the choice of sponsoring scientist(s) and host institution(s)
+<!-- Description of awesome people with the skills and ideas that I want to work with-->
+
 
 ##Goals and benchmarks
-I think I got the data wrangling bit done.
+6) a timetable with yearly goals with benchmarks for major anticipated outcomes; 
 
 <!--Need to learn phylogenetic analysis-->
 
@@ -61,6 +73,7 @@ Learn temporal analysis techniques.
 I want to continue to improve my scientific programming skills.
 
 ##Broader impacts
+7)a separate section within the narrative, a discussion of the broader impacts of the proposed activities.
 <!--Inadequacy of current efforts to include chronically ill researchers.-->
 A chronically ill researcher is working with less energy, and less physical capacity than an able bodied scientist.  While dealing with a failing body, a scientist should not also have to fight the numerous institutional barriers to remaining an active participant in science.  Having to self-advocate for access robs the researchers of valuable and limited time and energy that he/she could use to be actually doing science.  Many workshops/conferences lack any accessibility information, and the accessibility information that is available is often restricted to the more traditionally visible disability (vision/hearing impairment, mobility restrictions) and buried on the organizational website, rather than being provided in the announcement.  Providing remote access/attendance is a way that chronically ill/ disabled scientists can attend workshops and conferences that allow them to remain current on cutting edge research and techniques in their field.
 
