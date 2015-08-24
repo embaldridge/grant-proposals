@@ -40,6 +40,20 @@ significance; 3) training objectives and plan for achieving them (these may incl
 2) a statement of research objectives, methods, and
 significance
 
+Demonstrating the utility of using fully reproducible science with computational and ecoinformatics approaches to collaborate remotely.
+
+
+Improve ability to collaborate with other ecologists by learning R.
+
+
+###Objective 1
+
+###Objective 2
+Identify how life history/functional traits help partition the spatial and temporal scales that are organismally relevant.
+
+###Objective 3
+Identify the scales over which space-for-time substitutions can be made.
+
 ##Future directions/career development
 3) training objectives and plan for achieving them (these may include scientific as well as other career preparation activities)
 
@@ -49,9 +63,7 @@ I have a chronic illness which has seriously impacted my ability to function in 
 #Career development
 4) an explanation of how the fellowship activities will enhance your career development and future research directions as well as describing how this research differs from your dissertation research
 
-The combination of computational, ecoinformatics, and quantitative skills is  a rare skill set among ecologists, and one that is particularly well suited to working remotely.  Developing these skills further while engaging in remote collaborations with scientists at other institutions will provide a clear demonstration that telecommuting and remote collaboration should be a more accepted method for employment in the sciences, much as it is in the computer/tech fields.  In addition, developing these skills also provides a way for me to continue doing science without formal institutional support.  Working with Data and Software Carpentry to help spread the skills gives me a larger pool of potential collaborators, plus it allows me to be able to teach.
-
-
+The combination of computational, ecoinformatics, and quantitative skills is  a rare skill set among ecologists, and one that is particularly well suited to working remotely.  Developing these skills further while engaging in remote collaborations with scientists at other institutions will provide a clear demonstration that telecommuting and remote collaboration should be a more accepted method for employment in the sciences, much as it is in the computer/tech fields.  In addition, developing these skills also provides a way for me to continue doing science without formal institutional support.  
  
 
 ##Justification of sponsor(s) and host institution(s)
@@ -75,7 +87,9 @@ I want to continue to improve my scientific programming skills.
 ##Broader impacts
 7)a separate section within the narrative, a discussion of the broader impacts of the proposed activities.
 <!--Inadequacy of current efforts to include chronically ill researchers.-->
-A chronically ill researcher is working with less energy, and less physical capacity than an able bodied scientist.  While dealing with a failing body, a scientist should not also have to fight the numerous institutional barriers to remaining an active participant in science.  Having to self-advocate for access robs the researchers of valuable and limited time and energy that he/she could use to be actually doing science.  Many workshops/conferences lack any accessibility information, and the accessibility information that is available is often restricted to the more traditionally visible disability (vision/hearing impairment, mobility restrictions) and buried on the organizational website, rather than being provided in the announcement.  Providing remote access/attendance is a way that chronically ill/ disabled scientists can attend workshops and conferences that allow them to remain current on cutting edge research and techniques in their field.
+A chronically ill researcher is working with less energy, and less physical capacity than an able bodied scientist.  While dealing with a failing body, a scientist should not also have to fight the numerous institutional barriers to remaining an active participant in science.  Having to self-advocate for access robs the researchers of valuable and limited time and energy that he/she could use to be actually doing science.  However, chronic illness is only one of the many under-represented groups in science, and many scientists belong to more than one category of under-represented group.  A more inclusive approach to addressing the problem of under-representation is taking intersectional approach to under-representation, where people can advocate to improve conditions for all under-represented groups across categories.
+
+To this end, I have drafted by-laws and collected signatures to start an Inclusive Ecology section as part of the Ecological Society of America, which has been submitted to the governing board for consideration.  This section will be involved in working to provide better support to under-represented ecologists, starting with improving the conference experience for all ecologists, starting with accessibility and accommodations for chronically ill/disabled ecologists and providing training to volunteers, moderators, and staff on respecting gender identity and expression.    
 
 
 <!--Tools that a chronically ill researcher can use to remain active in the field. -->
@@ -88,10 +102,11 @@ Database skills
 <!--Plan for teaching these skills.-->
 I have been working with Ethan White with Data Carpentry to provide remote accessibility to workshops, as well as making certain that disability accessibility for workshops are part of the announcement.
 
-I have also written a simple Python script to generate a sample disability accessibility statement for workshops/conferences.
+I have also written a simple Python script to generate a sample disability accessibility statement for workshops/conferences, which I will turn into an interactive component of the Inclusive Ecology section website.
 
 I have also been active in disclosing my illness and trying to raise awareness about chronically ill/disabled researchers.
 
+Starting a section.
 
 <!--
 Biographical Sketch[2 page limit]
@@ -106,11 +121,11 @@ Data Management Plan:
 All applications must include a supplementary document of no more than two pages labeled "Data Management Plan". Describe plans for data management and sharing of the products of research, or assert the absence of the need for such plans. Upload this to Supplementary Documents–Data Management Plan.
 -->
 #Data management plan
-Research products (code) available on GitHub, version of code used in final publication will be archived at Zenodo.
+Research products (code) available on GitHub, version of code used in final publication will be archived through Zenodo.
 
 Using publicly available data, so data management plan (for data) is not necessary for those datasets.
 
-Additional data 
+Any additional database compilations will be initially compiled openly on GitHub,  versions of the database used for analysis will be archived on figshare prior to ultimate publication of the associated papers.  Scripts will be written to make these data directly importable through the EcoData Retriever.
 <!-- 
 Mentoring Plan:
 A complete sponsoring scientist statement consists of two
