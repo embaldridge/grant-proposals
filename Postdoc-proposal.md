@@ -63,14 +63,14 @@ I have a chronic illness which has seriously impacted my ability to function in 
 #Career development
 4) an explanation of how the fellowship activities will enhance your career development and future research directions as well as describing how this research differs from your dissertation research
 
-The combination of computational, ecoinformatics, and quantitative skills is  a rare skill set among ecologists, and one that is particularly well suited to working remotely.  Developing these skills further while engaging in remote collaborations with scientists at other institutions will provide a clear demonstration that telecommuting and remote collaboration should be a more accepted method for employment in the sciences, much as it is in the computer/tech fields.  In addition, developing these skills also provides a way for me to continue doing science without formal institutional support.  
+The combination of computational, ecoinformatics, and quantitative skills is  a rare skill set among ecologists, and one that is particularly well suited to working remotely.  Developing these skills further while engaging in remote collaborations with scientists at other institutions will provide a clear demonstration that telecommuting and remote collaboration should be a more accepted method for employment in the sciences, much as it is in the computer/tech fields.  This would support not only scientists with disabilities/chronic illness, but also scientists who do not have the funds for travel, or who are caretakers of small children or other family members.  In addition, developing these skills also provides a way for me to continue doing science without formal institutional support.  
  
 
 ##Justification of sponsor(s) and host institution(s)
 5) a justification of the choice of sponsoring scientist(s) and host institution(s)
 <!-- Description of awesome people with the skills and ideas that I want to work with-->
 
-
+Due to my physical limitations, I will not be able to be physically present at the host institutions; however, I will be able to interact with colleagues on-site through a remote prescence via a Kubi teleconferencing robot (https://www.revolverobotics.com/), which will allow me to have control over my movement on site, leading to more natural interactions.  Additionally, all the sponsoring scientists are comfortable with the computational tools and workflow that make it possible for me to effectively collaborate with others remotely.   
 ##Goals and benchmarks
 6) a timetable with yearly goals with benchmarks for major anticipated outcomes; 
 
@@ -108,18 +108,14 @@ I have also been active in disclosing my illness and trying to raise awareness a
 
 Starting a section.
 
-<!--
-Biographical Sketch[2 page limit]
+<!--Biographical Sketch[2 page limit]
 Submit your CV in the section Biographical Sketches. Follow the form
 given in the Grants Program Guide II.C.2.f.i for senior personnel.
-List conference abstracts and titles of presentations separate from peer-reviewed articles. For unpublished manuscripts, list only those submitted or accepted for publication (along with most likely date of publication). 
--->
+List conference abstracts and titles of presentations separate from peer-reviewed articles. For unpublished manuscripts, list only those submitted or accepted for publication (along with most likely date of publication).-->
 #Biosketch
 I am a computational macroecologist who is disabled by chronic illness.  My research uses publicly available data and computational methods, allowing me to continue to be an active researcher without funding or an institutional affliation.
-<!--
-Data Management Plan:
-All applications must include a supplementary document of no more than two pages labeled "Data Management Plan". Describe plans for data management and sharing of the products of research, or assert the absence of the need for such plans. Upload this to Supplementary Documents–Data Management Plan.
--->
+<!--Data Management Plan:
+All applications must include a supplementary document of no more than two pages labeled "Data Management Plan". Describe plans for data management and sharing of the products of research, or assert the absence of the need for such plans. Upload this to Supplementary Documents–Data Management Plan.-->
 #Data management plan
 Research products (code) available on GitHub, version of code used in final publication will be archived through Zenodo.
 
