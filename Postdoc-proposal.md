@@ -25,12 +25,11 @@ While the hollow curve species abundance distribution is a ubiquitious macroecol
 A lack of familiarity with disability/chronic illness means that accessibility accommodations tend to be post-hoc, and cause the vast majority of current efforts to provide accessibility to chronically ill/disabled scientists to be inadequate or non-existent. I have been active in bringing awareness to both the problems associated with being a scientist with disability/chronic illness as well as providing solutions to include scientists with disabilities/chronic illness through blog posts and social media, and I will continue those efforts.  In addition, I will increase accessibility for scientists by working with Data Carpentry to provide remote access to Data Carpentry workshops. Remote access will allow scientists who need to attend remotely to be able to attend and learn skills that provide a more efficient workflow as well as facilitating remote research and collaboration.  These skills can make it possible/easier for a chronically ill researcher to remain an active scientist.  I will also work/ continue working to start and propose inititives for an Ecological Society of America Inclusive Ecology section. which will provide an intersectional group to encompass all under-represented groups in ecology.  The Inclusive Ecology section will form alliances with other Ecological Society of American sections, create training materials, and provide workshops and mentoring programs to address systemic inequalities in ecology and improve retention and provide support for under-represented groups in ecology.<!-- This may need to move down, and the other broader impacts section may need to move up.  Either way, the broader impacts needs quite a bit of work and focusing.-->
 
 #Project Description
-<!--
-Prepare Project Description (Research and Training Plan).[6 page limit,
+<!--Prepare Project Description (Research and Training Plan).[6 page limit,
 including all figures, tables, etc.] 
 The research and training plan presents the research that you will conduct and the training that you will receive during the fellowship period and how they relate to your career goals. Include in the research and training plan: 1) a brief and informative introduction or background section; 2) a statement of research objectives, methods, and
-significance; 3) training objectives and plan for achieving them (these may include scientific as well as other career preparation activities); 4) an explanation of how the fellowship activities will enhance your career development and future research directions as well as describing how this research differs from your dissertation research; 5) a justification of the choice of sponsoring scientist(s) and host institution(s); 6) a timetable with yearly goals with benchmarks for major anticipated outcomes; 7)a separate section within the narrative, a discussion of the broader impacts of the proposed activities.
--->
+significance; 3) training objectives and plan for achieving them (these may include scientific as well as other career preparation activities); 4) an explanation of how the fellowship activities will enhance your career development and future research directions as well as describing how this research differs from your dissertation research; 5) a justification of the choice of sponsoring scientist(s) and host institution(s); 6) a timetable with yearly goals with benchmarks for major anticipated outcomes; 7)a separate section within the narrative, a discussion of the broader impacts of the proposed activities.-->  
+
 #Project description
 ##Intro
  1) a brief and informative introduction or background section 
@@ -43,7 +42,7 @@ significance
 Demonstrating the utility of using fully reproducible science with computational and ecoinformatics approaches to collaborate remotely.
 
 
-Improve ability to collaborate with other ecologists by learning R.
+Improve ability to collaborate with other ecologists by learning R (make tools that more ecologists can use).
 
 
 ###Objective 1
@@ -95,10 +94,10 @@ To this end, I have drafted by-laws and collected signatures to start an Inclusi
 
 
 <!--Tools that a chronically ill researcher can use to remain active in the field. -->
-As a chronically ill researcher, I have found that computational tools have been invaluable in allowing me to continue working as an active researcher.  Not only do these skills make remote collaboration much easier/possible, these tools also make executing research much easier.  
-Version control
-Programming
-Database skills
+As a chronically ill researcher, I have found that computational tools have been invaluable in allowing me to continue working as an active researcher.  Not only do these skills make remote collaboration much easier/possible, these tools also make executing research much easier.   
+Version control  
+Programming  
+Database skills  
 
 
 <!--Plan for teaching these skills.-->
