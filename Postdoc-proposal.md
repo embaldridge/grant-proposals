@@ -65,7 +65,7 @@ Despite these challenges, I am able to remain an active researcher through a ser
 #Career development
 4) an explanation of how the fellowship activities will enhance your career development and future research directions as well as describing how this research differs from your dissertation research
 
-The combination of computational, ecoinformatics, and quantitative skills is  a rare skill set among ecologists, and one that is particularly well suited to working remotely.  Developing these skills further while engaging in remote collaborations with scientists at other institutions will provide a clear demonstration that telecommuting and remote collaboration should be a more accepted method for employment in the sciences, much as it is in the computer/tech fields.  This would support not only scientists with disabilities/chronic illness, but also scientists who do not have the funds for travel, or who are caretakers of small children or other family members.  In addition, developing these skills also provides a way for me to continue doing science without formal institutional support if neccessary.  
+The combination of computational, ecoinformatics, and quantitative skills is  a rare skill set among ecologists, and one that is particularly well suited to working remotely.  Developing these skills further while engaging in remote collaborations with scientists at other institutions will provide a clear demonstration that telecommuting and remote collaboration should be a more accepted method for employment in the sciences, much as it is in the computer/tech fields.  This paradigm shift supports not only scientists with disabilities/chronic illness, but also scientists who do not have the funds for travel, or who are caretakers of small children or other family members.  In addition, developing these skills also provides a way for me to continue doing science without formal institutional support if neccessary.  
  
 
 ##Justification of sponsor(s) and host institution(s)
@@ -119,11 +119,19 @@ I am a computational macroecologist who is disabled by chronic illness.  My rese
 <!--Data Management Plan:
 All applications must include a supplementary document of no more than two pages labeled "Data Management Plan". Describe plans for data management and sharing of the products of research, or assert the absence of the need for such plans. Upload this to Supplementary Documents–Data Management Plan.-->
 #Data management plan
-Research products (code) available on GitHub, version of code used in final publication will be archived through Zenodo.
+##Research products reuse and redistribution
+All research products, including code, data, presentations/posters, and publications will be open access and freely available for reuse without request during all stages of development under a Creative Commons Zero (CC0) license, following the Panton Principles guidelines (http://pantonprinciples.org).  This license dedicates the research products to the public domain without restriction, allowing for maximum reusability.
 
-Using publicly available data, so data management plan (for data) is not necessary for those datasets.
 
-Any additional database compilations will be initially compiled openly on GitHub,  versions of the database used for analysis will be archived on figshare prior to ultimate publication of the associated papers.  Scripts will be written to make these data directly importable through the EcoData Retriever.
+#Code
+Research products (code) will be available on a publicly available, open access GitHub repository (http://github.com/embaldridge), and GitHub issues and wiki will be used as an online lab notebook.  The version of code used in final publication will be archived through Zenodo (https://zenodo.org/).
+
+#Data
+The majority of the data that I will use is publicly available data, so a data management plan (for data) is not necessary for those datasets.  However, any scripts written to extract and process the data will be available in the code repository to make the data extraction pro cess fully reproducible, as long as a researcher has access to the datasets.
+
+No new data will be collected; but additional data may be compiled from the literature.  Any additional database compilations will be initially compiled openly on GitHub, and versions of the database used for analysis will be archived on figshare prior to ultimate publication in *Ecological Archives* as a data paper, which archives the data and allows the data to be freely accessed.  I will write script to make these data, and any other publicly available datasets that I use, directly importable through the EcoData Retriever(www.ecodataretriever.org).  The EcoData Retriever is a tool developed to make the reuse of ecological data simpler and more reproducible (@retriever).   
+
+
 <!-- 
 Mentoring Plan:
 A complete sponsoring scientist statement consists of two
