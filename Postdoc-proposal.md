@@ -94,9 +94,22 @@ I want to continue to improve my scientific programming skills.
 ###Summary
 Working to improve opportunities and address structural inequalites to broaden participation for under-represented groups is, unfortunately part of being a member of an under-represented group.  Having to self-advocate to improve structural inequalities and to obtain access as a member of an under-represented group (in my case, a scientist with a chronic illness) robs researchers of valuable and limited time and energy that they could use to be actually doing science. <!--A chronically ill researcher is working with less energy, and less physical capacity than an able bodied scientist.  While dealing with a failing body, a scientist should not also have to fight the numerous institutional barriers to remaining an active participant in science.-->    However, chronic illness is only one of the many under-represented groups in science, and many scientists belong to more than one category of under-represented group.  A more inclusive approach to addressing the problem of under-representation is taking an intersectional approach to under-representation, where people can advocate to improve conditions for all under-represented groups across categories.
 
-To this end, I have drafted by-laws and collected signatures to start an Inclusive Ecology section as part of the Ecological Society of America, which has been submitted to the governing board for consideration.  This section will be involved in working to provide better support to under-represented ecologists, starting with improving the conference experience for all ecologists, starting with accessibility and accommodations for chronically ill/disabled ecologists and providing training to volunteers, moderators, and staff on respecting gender identity and expression.
 
-<!--Open science is also a powerful tool for increasing the accessibility of science for underrepresented groups.--> People at primarily undergraduate instiutions or who are unaffiliated with an instution often lack access to the funding and resources that larger instituions have.  An open approach to science allows access and sharing of educational tools and lessons, data, and papers that would be difficult or impossible to acquire otherwise.  Remote work, combined with open science approaches helps to equalize the conditions for primarily undergraduate institutions and researchers doing computational work, allowing them to remain more competative with researchers at larger institutions.    
+###Broadening participation through organization
+I have drafted by-laws and collected signatures to start an Inclusive Ecology section as part of the Ecological Society of America, which has been submitted to the governing board for consideration.  The Ecological Society of America has an existing program (SEEDS) that seeks to broaden participation from under-represented groups at the undergraduate level.  The Inclusive Ecology section seeks to expand this effort to provide support to all under-represented ecologists after they have completed their undergraduate degree, serving ecologists at all career stages, and working with other sections, such as the Open Science section and the Science Communication section to create a more inclusive environment for all ecologists.  It will provide a grass roots effort for ecologists to change the culture of ecology to be more supportive of members of under-represented groups.
+
+The Inclusive Ecology section will have several initiatives, starting with addressing some challenges faced at the annual meeting to improve accessibility and accommodations for chronically ill/disabled ecologists and providing training to volunteers, moderators, and staff on respecting gender identity and expression.  The Inclusive Ecology section will also develop a mentoring network for ecologists from under-represented groups, and this network will also interface with the Early Career mentoring network as well.  Further educational materials aimed at addressing some of the problems faced by members of under-represented groups (e.g.,  an disability accessibility statement generator) will be an important  component of the Inclusive Ecology section website.  
+
+
+###Broadening participation through tools and technology
+Open science is also a powerful tool for increasing the accessibility of science for underrepresented groups.  People at primarily undergraduate institutions or who are unaffiliated with an institution often lack access to the funding and resources that larger institutions have.  An open approach to science allows access and sharing of educational tools and lessons, data, and papers that would be difficult or impossible to acquire otherwise.  Remote work, combined with open science approaches helps to equalize the conditions for primarily undergraduate institutions and researchers doing computational work, allowing them to remain more competitive with researchers at larger institutions, as well as create opportunities for communicating science to under-represented groups at the K-12 levels through developing lessons and outreach tools.
+
+
+
+<!--Plan for teaching these skills.-->
+Computational tools and techniques becoming increasingly more important in science, and having the opportunity to learn these skills has, so far, been primarily restricted to in-person workshops, classes, or events at larger institutions.  I have been working with Ethan White with Data Carpentry to provide remote accessibility to workshops, as well as making certain that disability accessibility for workshops are part of the announcement.  Having remote accessibility means that scientists who are unable to travel due to financial, physical, or other limitations can still participate in learning the tools that they need to collaborate and remain competitive.  Remote options also allow scientists who cannot travel to participate in sharing their skills, and remaining active in training the next generation of scientists.
+
+   
 
 
 <!--Tools that a chronically ill researcher can use to remain active in the field. -->
@@ -106,20 +119,18 @@ Programming
 Database skills  
 
 
-<!--Plan for teaching these skills.-->
-I have been working with Ethan White with Data Carpentry to provide remote accessibility to workshops, as well as making certain that disability accessibility for workshops are part of the announcement.
 
-I have also written a simple Python script to generate a sample disability accessibility statement for workshops/conferences, which I will turn into an interactive component of the Inclusive Ecology section website.
+
 
 I have also been active in disclosing my illness and trying to raise awareness about chronically ill/disabled researchers.
 
-Starting a section.
 
 <!--Biographical Sketch[2 page limit]
 Submit your CV in the section Biographical Sketches. Follow the form
 given in the Grants Program Guide II.C.2.f.i for senior personnel. List conference abstracts and titles of presentations separate from peer-reviewed articles. For unpublished manuscripts, list only those submitted or accepted for publication (along with most likely date of publication).-->
 #Biosketch
-I am a computational macroecologist who is disabled by chronic illness.  My research uses publicly available data and computational methods, allowing me to continue to be an active researcher without funding or an institutional affliation.
+I am a computational macroecologist who is disabled by chronic illness.  My research uses publicly available data and computational methods, allowing me to continue to be an active researcher without funding or an institutional affiliation.
+
 <!--Data Management Plan:
 All applications must include a supplementary document of no more than two pages labeled "Data Management Plan". Describe plans for data management and sharing of the products of research, or assert the absence of the need for such plans. Upload this to Supplementary Documents–Data Management Plan.-->
 #Data management plan
