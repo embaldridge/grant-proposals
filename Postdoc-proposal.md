@@ -1,7 +1,6 @@
 <!--
 Postdoctoral Research Fellowships in Biology
 http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503622&org=BIO
-
 http://www.nsf.gov/bio/prfb/applicant_how_to_apply_prfb.pdf
 http://www.nsf.gov/bio/prfb/applicant_how_to_apply_prfb.pdf
 -->
@@ -22,7 +21,7 @@ phylogenetically heritable. Second, I will identify if regional occupancy and ab
 While the hollow curve species abundance distribution is a ubiquitious macroecological pattern, attempting to identify mechanisms of commonness and rarity through model fitting has been unsuccessful.  Recent research suggests that examining crucial constraints that produce the pattern is a more effective approach to identify mechanism.  <!--Something about S and N and interesting which species are likely to be more abundant, conservation, utility of trait based approaches + phylogeny over multiple taxa. --> <!--Different ecological mechanisms operate at different scales, and thus the scale at which a study is conducted is central to understanding those mechanisms.  While ecology has addressed the problems of spatial scale for some time now, it has been only recently that the data have become available to address the problem of temporal scale, although space-for-time substitutions are fairly common.  Because temporal scale ecology is still in its infancy, the problem of synthesizing the relationship between space and scale has not yet been thoroughly addressed, but is central to understanding over which scales space-for-time substitutions are effective, and the relative importance of space and time in identifying pattern generating ecological mechanisms.-->
 
 ##Broader impacts
-A lack of familiarity with disability/chronic illness means that accessibility accommodations tend to be post-hoc, and cause the vast majority of current efforts to provide accessibility to chronically ill/disabled scientists to be inadequate or non-existent. I have been active in bringing awareness to both the problems associated with being a scientist with disability/chronic illness as well as providing solutions to include scientists with disabilities/chronic illness through blog posts and social media, and I will continue those efforts.  
+A lack of familiarity with disability/chronic illness means that accessibility accommodations tend to be post-hoc, and cause the vast majority of current efforts to provide accessibility to chronically ill/disabled scientists to be inadequate or non-existent. I have been active in bringing awareness to both the problems associated with being a scientist with disability/chronic illness as well as providing solutions to include scientists with disabilities/chronic illness through blog posts and social media, and I will continue those efforts while working to broaden participation for other under-represented groups as well.  
 
 I will increase accessibility for scientists by working with Data Carpentry to provide remote access to Data Carpentry workshops. Remote access will allow scientists who need to attend remotely to be able to attend and learn skills that provide a more efficient workflow as well as facilitating remote research and collaboration.  These skills can make it possible/easier for a chronically ill researcher to remain an active scientist, as well as supporting scientists who are financially unable to travel, or who have other responsiblities that prevent them from traveling.  
 
@@ -107,7 +106,7 @@ Open science is also a powerful tool for increasing the accessibility of science
 
 
 <!--Plan for teaching these skills.-->
-Computational tools and techniques becoming increasingly more important in science, and having the opportunity to learn these skills has, so far, been primarily restricted to in-person workshops, classes, or events at larger institutions.  I have been working with Ethan White with Data Carpentry to provide remote accessibility to workshops, as well as making certain that disability accessibility for workshops are part of the announcement.  Having remote accessibility means that scientists who are unable to travel due to financial, physical, or other limitations can still participate in learning the tools that they need to collaborate and remain competitive.  Remote options also allow scientists who cannot travel to participate in sharing their skills, and remaining active in training the next generation of scientists.
+Computational tools and techniques becoming increasingly more important in science, and having the opportunity to learn these skills has, so far, been primarily restricted to in-person workshops, classes, or events at larger institutions.  I have been working with Ethan White with Data Carpentry to provide remote accessibility to workshops, as well as making certain that disability accessibility for workshops are part of the announcement.  Having remote accessibility means that scientists who are unable to travel due to financial, physical, or other limitations can still participate in learning the tools that they need to collaborate and remain competitive.  Remote options also allow scientists who cannot travel to participate in sharing their skills, and train the next generation of scientists.
 
    
 
@@ -128,6 +127,7 @@ I have also been active in disclosing my illness and trying to raise awareness a
 <!--Biographical Sketch[2 page limit]
 Submit your CV in the section Biographical Sketches. Follow the form
 given in the Grants Program Guide II.C.2.f.i for senior personnel. List conference abstracts and titles of presentations separate from peer-reviewed articles. For unpublished manuscripts, list only those submitted or accepted for publication (along with most likely date of publication).-->
+
 #Biosketch
 I am a computational macroecologist who is disabled by chronic illness.  My research uses publicly available data and computational methods, allowing me to continue to be an active researcher without funding or an institutional affiliation.
 
@@ -147,13 +147,13 @@ The majority of the data that I will use is publicly available data, so a data m
 No new data will be collected; but additional data may be compiled from the literature.  Any additional database compilations will be initially compiled openly on GitHub, and versions of the database used for analysis will be archived on figshare prior to ultimate publication in *Ecological Archives* as a data paper, which archives the data and allows the data to be freely accessed.  I will write script to make these data, and any other publicly available datasets that I use, directly importable through the EcoData Retriever(www.ecodataretriever.org).  The EcoData Retriever is a tool developed to make the reuse of ecological data simpler and more reproducible [morris2013].
 
 ###Presentations/Posters
-Presentations and posters about the research will be archived on GitHub (http://github.com/embaldridge/posters-pres) and either figshare (posters) or Slideshare (presentations).  Additionally, a pre-talk transcript will be available on the GitHub repository in advance of the presentation to accommodate neurodivergent  and hearing impaired colleagues.  Ideally, talks will be livestreamed with Google Hangouts on Air or simiilar software to allow for remote participation.  If this is not possible, due to venue or event restrictions, I will record the talk after the fact.  In either event, the video of the talk will then be closed captioned and made publicly available on YouTube.
+Presentations and posters about the research will be archived on GitHub (http://github.com/embaldridge/posters-pres) and either figshare (posters) or Slideshare (presentations).  Additionally, a pre-talk transcript will be available on the GitHub repository in advance of the presentation to accommodate neurodivergent  and hearing impaired colleagues.  Ideally, talks will be live-streamed with Google Hangouts on Air or similar software to allow for remote participation.  If this is not possible, due to venue or event restrictions, I will record the talk after the fact.  In either event, the video of the talk will then be closed captioned and made publicly available on YouTube.
 
 ###Publications
 All publications will first be made available as pre-prints through a preprint server such as arXive, bioRxive, or PeerJ.  Final publications will be published in journals that allow for gold open access publication and have rapid review times (e.g., Ecology, PLoS, PeerJ, etc.).
 
 ###Roles and responsibilities
-Elita Baldridge will be primarily responsible for data collection and management, code development and managment, and dissemination of research products.  Supporting scientists will provide guidance and support in developing, managing, and sharing code.  The reproducible workflow and archiving of research products for this project will provide long-term open-access to data, code,and computational tools both during the term of the grant, and after the grant ends.
+Elita Baldridge will be primarily responsible for data collection and management, code development and management, and dissemination of research products.  Supporting scientists will provide guidance and support in developing, managing, and sharing code.  The reproducible workflow and archiving of research products for this project will provide long-term open-access to data, code,and computational tools both during the term of the grant, and after the grant ends.
 
 
 <!-- 
