@@ -2,8 +2,10 @@
 Mentoring Plan:
 A complete sponsoring scientist statement consists of two
 parts; a CV of no more than two pages for each sponsor and a single discussion (no more than 3 pages) of the items below. Detailed description of what is required in the Sponsoring Scientist Statement can be found in the solicitation. Upload this to Supplementary Documents–Mentoring Plan.
-Note: FastLane will warn youthat the mentoring plan should only be 1 page long. Disregard this warning for the PRFB program.
+Note: FastLane will warn you that the mentoring plan should only be 1 page long. Disregard this warning for the PRFB program.
 --> 
+#CV sponsor
+
 #Mentoring plan
 <!--Other Supplementary Docs:
 Upload this to Supplementary Documents–Other Supplementary Docs.
