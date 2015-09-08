@@ -5,33 +5,6 @@ http://www.nsf.gov/bio/prfb/applicant_how_to_apply_prfb.pdf
 http://www.nsf.gov/bio/prfb/applicant_how_to_apply_prfb.pdf
 -->
 
-<!--
-Prepare Project Summary (also called Abstract) of Proposed Research and Training. [1 page limit]
- This is an abstract of the proposed research and training. You must
-clearly address and identify in separate statements using the three boxes:(1) an overview of the project;(2) the intellectual merit of the proposed activity; and (3) the broader impacts resulting from the proposed activity or the application will be returned without review.
-For all areas, list your sponsoring scientist(s) and institution(s) in the overview.
--->
-#Project summary  
-##Research overview	
-The ultimate goal of my research is to gain a better understanding of the mechanisms that produce commonness and rarity in
-an ecological context. First, I will explore the evolutionary basis of commonness and rarity by determining if commonness and rarity are
-phylogenetically heritable. Second, I will identify if regional occupancy and abundance can be explained by life history traits. <!--Or: Understanding the spatial and temporal scales that are relevant to organisms could provide a better guide for the spatial and temporal scale a study needs to identify mechanisms affecting species richness and abundance for those taxa.  It may also be possible to identify a general pattern for how space and time relationships change with taxa.-->
-
-##Intellectual 
-While the hollow curve species abundance distribution is a ubiquitious macroecological pattern, attempting to identify mechanisms of commonness and rarity through model fitting has been unsuccessful.  Recent research suggests that examining crucial constraints that produce the pattern is a more effective approach to identify mechanism.  <!--Something about S and N and interesting which species are likely to be more abundant, conservation, utility of trait based approaches + phylogeny over multiple taxa. --> <!--Different ecological mechanisms operate at different scales, and thus the scale at which a study is conducted is central to understanding those mechanisms.  While ecology has addressed the problems of spatial scale for some time now, it has been only recently that the data have become available to address the problem of temporal scale, although space-for-time substitutions are fairly common.  Because temporal scale ecology is still in its infancy, the problem of synthesizing the relationship between space and scale has not yet been thoroughly addressed, but is central to understanding over which scales space-for-time substitutions are effective, and the relative importance of space and time in identifying pattern generating ecological mechanisms.-->
-
-##Broader impacts
-A lack of familiarity with disability/chronic illness means that accessibility accommodations tend to be post-hoc, and cause the vast majority of current efforts to provide accessibility to chronically ill/disabled scientists to be inadequate or non-existent. I have been active in bringing awareness to both the problems associated with being a scientist with disability/chronic illness as well as providing solutions to include scientists with disabilities/chronic illness through blog posts and social media, and I will continue those efforts while working to broaden participation for other under-represented groups as well.  
-
-I will increase accessibility for scientists by working with Data Carpentry to provide remote access to Data Carpentry workshops. Remote access will allow scientists who need to attend remotely to be able to attend and learn skills that provide a more efficient workflow as well as facilitating remote research and collaboration.  These skills can make it possible/easier for a chronically ill researcher to remain an active scientist, as well as supporting scientists who are financially unable to travel, or who have other responsibilities that prevent them from traveling.  
-
-I will also work/ continue working to start and propose initiatives for an Ecological Society of America Inclusive Ecology section. which will provide an intersectional group to encompass all under-represented groups in ecology.  The Inclusive Ecology section will form alliances with other Ecological Society of American sections, create training materials, and provide workshops and mentoring programs to address systemic inequalities in ecology and improve retention and provide support for under-represented groups in ecology.<!-- This may need to move down, and the other broader impacts section may need to move up.  Either way, the broader impacts needs quite a bit of work and focusing.-->
-
-#Project Description
-<!--Prepare Project Description (Research and Training Plan).[6 page limit,
-including all figures, tables, etc.] 
-The research and training plan presents the research that you will conduct and the training that you will receive during the fellowship period and how they relate to your career goals. Include in the research and training plan: 1) a brief and informative introduction or background section; 2) a statement of research objectives, methods, and
-significance; 3) training objectives and plan for achieving them (these may include scientific as well as other career preparation activities); 4) an explanation of how the fellowship activities will enhance your career development and future research directions as well as describing how this research differs from your dissertation research; 5) a justification of the choice of sponsoring scientist(s) and host institution(s); 6) a timetable with yearly goals with benchmarks for major anticipated outcomes; 7)a separate section within the narrative, a discussion of the broader impacts of the proposed activities.-->  
 
 #Project description
 ##Intro
@@ -128,22 +101,7 @@ I have also been active in disclosing my illness and trying to raise awareness a
 Submit your CV in the section Biographical Sketches. Follow the form
 given in the Grants Program Guide II.C.2.f.i for senior personnel. List conference abstracts and titles of presentations separate from peer-reviewed articles. For unpublished manuscripts, list only those submitted or accepted for publication (along with most likely date of publication).-->
 
-#Biosketch
-I am a computational macroecologist who is disabled by chronic illness.  My research uses publicly available data and computational methods, allowing me to continue to be an active researcher without funding or an institutional affiliation.
 
 
 
-<!-- 
-Mentoring Plan:
-A complete sponsoring scientist statement consists of two
-parts; a CV of no more than two pages for each sponsor and a single discussion (no more than 3 pages) of the items below. Detailed description of what is required in the Sponsoring Scientist Statement can be found in the solicitation. Upload this to Supplementary Documents–Mentoring Plan.
-Note: FastLane will warn youthat the mentoring plan should only be 1 page long. Disregard this warning for the PRFB program.
---> 
-#Mentoring plan
-<!--Other Supplementary Docs:
-Upload this to Supplementary Documents–Other Supplementary Docs.
-1.Abstract of the Doctoral Dissertation Research [1 page limit].
-2.Teaching plan, if the teaching option is being requested in Competitive Areas 1 or 2 [3 pages].-->
 
-#Dissertation Research 
-Competed five species abundance distribution models against each other, bunches of data, etc, rework intro for chapter 1 plus extra bits for chapters 2 & 3.     

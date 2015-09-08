@@ -1,0 +1,2 @@
+#Biosketch
+I am a computational macroecologist who is disabled by chronic illness.  My research uses publicly available data and computational methods, allowing me to continue to be an active researcher without funding or an institutional affiliation.
