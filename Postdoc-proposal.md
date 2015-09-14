@@ -10,15 +10,10 @@ http://www.nsf.gov/bio/prfb/applicant_how_to_apply_prfb.pdf
 #Project description
 ##Intro
 <!--1) a brief and informative introduction or background section--> 
-
+Demonstrating the utility of fully remote, reproducible scientific collaboration using computational and ecoinformatics approaches.
 
 ##Research objectives, methods, and significance
 <!--2) a statement of research objectives, methods, and significance-->
-
-Demonstrating the utility of fully remote, reproducible scientific collaboration using computational and ecoinformatics approaches.
-
-
-Improve ability to collaborate with other ecologists by learning R (make tools that more ecologists can use).
 
 
 ###Objective 1
