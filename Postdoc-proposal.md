@@ -28,6 +28,14 @@ Identify how life history/functional traits help partition the spatial and tempo
 ###Objective 4
 Identify the scales over which space-for-time substitutions can be made.
 
+##Training objectives  
+Learn R
+Learn unit testing
+Learn temporal analysis techniques
+Learn more about life history theory
+Learn microbial macroecology
+
+
 ##Future directions/career development
 <!--3) training objectives and plan for achieving them (these may include scientific as well as other career preparation activities)-->
 
@@ -46,7 +54,9 @@ The combination of computational, ecoinformatics, and quantitative skills is  a 
 <!--5) a justification of the choice of sponsoring scientist(s) and host institution(s)-->
 <!-- Description of awesome people with the skills and ideas that I want to work with-->
 
-Due to my physical limitations, I will not be able to be physically present at the host institutions; however, I will be able to interact with colleagues on-site through a remote presence via a Kubi teleconferencing robot (https://www.revolverobotics.com/), which will allow me to have control over my movement on site, leading to more natural interactions.  Additionally, all the sponsoring scientists are comfortable with the computational tools and workflow that make it possible for me to effectively collaborate with others remotely.   
+Due to my physical limitations, I will not be able to be physically present at the host institutions; however, I will be able to interact with colleagues on-site through a remote presence via a Kubi teleconferencing robot (https://www.revolverobotics.com/), which will allow me to have control over my movement on site, leading to more natural interactions.  Additionally, all the sponsoring scientists are comfortable with the computational tools and workflow that make it possible for me to effectively collaborate with others remotely.  
+
+   
 ##Goals and benchmarks
 <!--6) a timetable with yearly goals with benchmarks for major anticipated outcomes; -->
 
