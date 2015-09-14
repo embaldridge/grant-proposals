@@ -22,11 +22,15 @@ Improve ability to collaborate with other ecologists by learning R (make tools t
 
 
 ###Objective 1
+Determine which spatial and temporal scales are organismally relevant.  
 
-###Objective 2
-Identify how life history/functional traits help partition the spatial and temporal scales that are organismally relevant.
+###Objective 2  
+Identify strengths of ecological processes at different spatial and temporal scales.
 
 ###Objective 3
+Identify how life history/functional traits help partition the spatial and temporal scales that are organismally relevant.
+
+###Objective 4
 Identify the scales over which space-for-time substitutions can be made.
 
 ##Future directions/career development
