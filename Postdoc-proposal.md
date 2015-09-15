@@ -40,9 +40,8 @@ Learn microbial macroecology
 <!--3) training objectives and plan for achieving them (these may include scientific as well as other career preparation activities)-->
 
 Independent researcher  
-I have a chronic illness which has seriously impacted my ability to function in the traditional academic environment.  Travel to conferences or workshops is extremely challenging, and for the majority of events, no longer an option due to the severe health consequences that  remain as the aftereffects of travel for several weeks afterwards.  My condition has caused periods of cognitive dysfunction related to information processing and comprehension as well as periods of reliance on mobility assistance devices.  
 
-Despite these challenges, I am able to remain an active researcher through a series of coping mechanism.  Besides contributing to the scientific process through research, I have been working and will continue to work to increase accessibility and awareness for chronically ill/disabled ecologists and ecologists from other under-represented groups. 
+Despite challenges of chronic illness, I am able to remain an active researcher through a series of coping mechanism.  Besides contributing to the scientific process through research, I have been working and will continue to work to increase accessibility and awareness for chronically ill/disabled ecologists and ecologists from other under-represented groups. 
 
 #Career development
 <!--4) an explanation of how the fellowship activities will enhance your career development and future research directions as well as describing how this research differs from your dissertation research-->
