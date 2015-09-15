@@ -28,6 +28,14 @@ Identify how life history/functional traits help partition the spatial and tempo
 ###Objective 4
 Identify the scales over which space-for-time substitutions can be made.
 
+##Methods
+Geographic ranges- migratory vs. non-migratory species.
+###Data
+Pre-existing datasets.
+Compiled data from the literature.
+Need for additional database.  Database of vertebrate home ranges contains a relatively small subset of vertebrate diversity.  I will compile additional home range data from the literature.
+###Analysis
+
 ##Training objectives  
 Learn R
 Learn unit testing
