@@ -35,6 +35,7 @@ Pre-existing datasets.
 Compiled data from the literature.
 Need for additional database.  Database of vertebrate home ranges contains a relatively small subset of vertebrate diversity.  I will compile additional home range data from the literature.
 ###Analysis
+Completely reproducible.  Command line Retriever | Extract with postgres in Python | Analysis with R or Python | Output results & graph
 
 ##Training objectives  
 Learn R
