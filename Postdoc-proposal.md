@@ -67,8 +67,11 @@ Due to my physical limitations, I will not be able to be physically present at t
    
 ##Goals and benchmarks
 <!--6) a timetable with yearly goals with benchmarks for major anticipated outcomes; -->
-
-<!--Need to learn phylogenetic analysis-->
+##Timeline
+| Timeline | Scientific Objectives | Broadening Participation Objectives | Communication of results |
+|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Year 1 | Phase 1: Design and compile animal home range database from the literature, prepare and process additional datasets for analysis.  Write analysis code and begin preliminary analysis for research objectives. | Communicate with Software and Data Carpentry and begin development and testing of remote workshop access.  Develop and blog about the implementation of tools and technology to facilitate remote collaboration.  | Attend and present results at scientific meetings.  Submit initial publications.  Code, data, presentations, preprints will be fully open (GitHub, figshare, arXiv/bioRxiv). |
+| Year 2 | Phase 2: Finalize analyses for all objectives, disseminate results.  Make sure that the results of the analyses are completely reproducible from a single bash file that will call the rest of the scripts, from data downloading/processing through analysis to graphing. | Remotely teach Software/Data Carpentry workshops to remote participants.  Continue blogging about ways to work around needing to work remotely. | Submit remaining publications.  Archive publication versions of code via Zenodo.  Communicate results at meetings. |
 
 Write more scripts, do things.
 
