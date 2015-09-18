@@ -19,23 +19,29 @@ Demonstrating the utility of fully remote, reproducible scientific collaboration
 ###Objective 1
 Determine which spatial and temporal scales are organismally relevant.  
 
-###Objective 2  
-Identify strengths of ecological processes at different spatial and temporal scales.
+###Objective 2 
+Identify the scales over which space-for-time substitutions can be made. 
+
 
 ###Objective 3
-Identify how life history/functional traits help partition the spatial and temporal scales that are organismally relevant.
+Identify strengths of ecological processes at different spatial and temporal scales.
 
-###Objective 4
-Identify the scales over which space-for-time substitutions can be made.
+<!--###Objective 4
+Identify how life history/functional traits (like body size, but also things like trophic level, storage effect related traits help partition the spatial and temporal scales that are organismally relevant.-->
 
 ##Methods
-Geographic ranges- migratory vs. non-migratory species.
+Geographic ranges- migratory vs. non-migratory species.  
+
+
 ###Data
 Pre-existing datasets.
 Compiled data from the literature.
-Need for additional database.  Database of vertebrate home ranges contains a relatively small subset of vertebrate diversity.  I will compile additional home range data from the literature.
+Need for additional database.  Database of vertebrate home ranges contains a relatively small subset of vertebrate diversity.  I will compile additional home range data from the literature.  
+
 ###Analysis
-Completely reproducible.  Command line Retriever | Extract with postgres in Python | Analysis with R or Python | Output results & graph
+Completely reproducible.  Command line Retriever | Extract and process data with postgres in Python | Analysis in R| Output results & graph
+
+<!--R seems to have some good packages already, and reinventing the wheel is probably a bad idea.-->
 
 ##Training objectives  
 Learn R
@@ -62,7 +68,8 @@ The combination of computational, ecoinformatics, and quantitative skills is  a 
 <!--5) a justification of the choice of sponsoring scientist(s) and host institution(s)-->
 <!-- Description of awesome people with the skills and ideas that I want to work with-->
 
-Due to my physical limitations, I will not be able to be physically present at the host institutions; however, I will be able to interact with colleagues on-site through a remote presence via a Kubi teleconferencing robot (https://www.revolverobotics.com/), which will allow me to have control over my movement on site, leading to more natural interactions.  Additionally, all the sponsoring scientists are comfortable with the computational tools and workflow that make it possible for me to effectively collaborate with others remotely.  
+
+<!--Final paragraph-->Due to my physical limitations, I will not be able to be physically present at the host institutions; however, I will be able to interact with colleagues on-site through a remote presence via a Kubi teleconferencing robot (https://www.revolverobotics.com/), which will allow me to have control over my movement on site, leading to more natural interactions.  Additionally, all the sponsoring scientists are comfortable with the computational tools and workflow that make it possible for me to effectively collaborate with others remotely.  
 
    
 ##Goals and benchmarks
