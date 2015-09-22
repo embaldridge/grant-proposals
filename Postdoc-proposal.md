@@ -10,7 +10,11 @@ http://www.nsf.gov/bio/prfb/applicant_how_to_apply_prfb.pdf
 #Project description
 ##Intro
 <!--1) a brief and informative introduction or background section--> 
-Demonstrating the utility of fully remote, reproducible scientific collaboration using computational and ecoinformatics approaches.
+The scale over which an organism operates is central to understanding the processes that structure an assemblage or an ecological community.  The influence of ecological process may change with scale.  
+  
+<!--Put in figure-->
+  
+This project will also demonstrate the utility and viability of fully remote, reproducible scientific collaboration using computational and ecoinformatics approaches, which provide a mechanism for chronically ill/disabled scientists to address central questions in ecology.
 
 ##Research objectives, methods, and significance
 <!--2) a statement of research objectives, methods, and significance-->
@@ -35,6 +39,8 @@ Geographic ranges- migratory vs. non-migratory species.
 
 ###Data
 Pre-existing datasets.
+Retriever
+
 Compiled data from the literature.
 Need for additional database.  Database of vertebrate home ranges contains a relatively small subset of vertebrate diversity.  I will compile additional home range data from the literature.  
 
@@ -44,11 +50,11 @@ Completely reproducible.  Command line Retriever | Extract and process data with
 <!--R seems to have some good packages already, and reinventing the wheel is probably a bad idea.-->
 
 ##Training objectives  
-Learn R
-Learn unit testing
-Learn temporal analysis techniques
-Learn more about life history theory
-Learn microbial macroecology
+Learn R  
+Learn unit testing  
+Learn temporal analysis techniques  
+Learn more about life history theory  
+Learn microbial macroecology  
 
 
 ##Future directions/career development
@@ -80,7 +86,6 @@ The combination of computational, ecoinformatics, and quantitative skills is  a 
 | Year 1 | Phase 1: Design and compile animal home range database from the literature, prepare and process additional datasets for analysis.  Write analysis code and begin preliminary analysis for research objectives. | Communicate with Software and Data Carpentry and begin development and testing of remote workshop access.  Develop and blog about the implementation of tools and technology to facilitate remote collaboration.  | Attend and present results at scientific meetings.  Submit initial publications.  Code, data, presentations, preprints will be fully open (GitHub, figshare, arXiv/bioRxiv). |
 | Year 2 | Phase 2: Finalize analyses for all objectives, disseminate results.  Make sure that the results of the analyses are completely reproducible from a single bash file that will call the rest of the scripts, from data downloading/processing through analysis to graphing. | Remotely teach Software/Data Carpentry workshops to remote participants.  Continue blogging about ways to work around needing to work remotely. | Submit remaining publications.  Archive publication versions of code via Zenodo.  Communicate results at meetings. |
 
-Write more scripts, do things.
 
 Learn more spatial analysis techniques.
 
