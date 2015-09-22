@@ -73,9 +73,11 @@ The combination of computational, ecoinformatics, and quantitative skills is  a 
 ##Justification of sponsor(s) and host institution(s)
 <!--5) a justification of the choice of sponsoring scientist(s) and host institution(s)-->
 <!-- Description of awesome people with the skills and ideas that I want to work with-->
+*Timothée Poisot (University of Montreal)-computational ecology
+Poisot's research interests and skills make him an ideas sponsor for both the intellectual development and implementation of this project as well as an excellent mentor for developing and refining the computational skills that are an essential component of my training objectives.  **Poisot** is an Assistant Professor in the Department of Biological Sciences and is a member of the Quebec Centre for Biodiversity Science.  He is a strong advocate for open and reproducible science and his lab is heavily involved in creating well designed software for ecological analyses.  In additional to Poisot's computational expertise that will facilitate remote mentorship, the University of Montreal has extensive remotely accessible computational resources and offers webinar training for using the high-performance computing resources.
 
 
-<!--Final paragraph-->Due to my physical limitations, I will not be able to be physically present at the host institutions; however, I will be able to interact with colleagues on-site through a remote presence via a Kubi teleconferencing robot (https://www.revolverobotics.com/), which will allow me to have control over my movement on site, leading to more natural interactions.  Additionally, all the sponsoring scientists are comfortable with the computational tools and workflow that make it possible for me to effectively collaborate with others remotely.  
+<!--Final paragraph-->Due to my physical limitations, I will not be able to be physically present at the host institutions; however, I will be able to interact with colleagues on-site through a remote presence via a Kubi teleconferencing robot (https://www.revolverobotics.com/), which will allow me to have control over my movement on site, leading to more natural interactions.  Additionally, all the sponsoring scientists are well-versed in the computational tools and workflow that make it possible for me to effectively collaborate with others remotely.  
 
    
 ##Goals and benchmarks
