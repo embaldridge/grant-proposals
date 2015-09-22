@@ -108,20 +108,14 @@ Remote scientific collaborations have been a way to facilitate participation by 
 ###Broadening participation through tools and technology
 Open science is also a powerful tool for increasing the accessibility of science for many different underrepresented groups, not only chronically ill/disabled researchers.  For example, people at primarily undergraduate institutions or who are unaffiliated with an institution often lack access to the funding and resources that larger institutions have.  An open approach to science allows access and sharing of educational tools and lessons, data, and papers that would be difficult or impossible to acquire otherwise.  Remote work, combined with open science approaches helps to equalize the conditions for primarily undergraduate institutions and researchers doing computational work, allowing them to remain more competitive with researchers at larger institutions, as well as create opportunities for communicating science to under-represented groups at the K-12 levels through developing lessons and outreach tools.
 
-
-
 <!--Plan for teaching these skills.-->
-Computational tools and techniques becoming increasingly more important in science, and having the opportunity to learn these skills has, so far, been primarily restricted to in-person workshops, classes, or events at larger institutions.  I have been working with Ethan White with Data Carpentry to provide remote accessibility to workshops, as well as making certain that disability accessibility for workshops are part of the announcement.  Having remote accessibility means that scientists who are unable to travel due to financial, physical, or other limitations can still participate in learning the tools that they need to collaborate and remain competitive.  Remote options also allow scientists who cannot travel to participate in sharing their skills, and train the next generation of scientists.
+Computational tools and techniques becoming increasingly more important in science, and having the opportunity to learn these skills has, so far, been primarily restricted to in-person workshops, classes, or events at larger institutions.  At my urging, both the Data Carpentry and Software Carpentry organizations plan to develop and provide remote accessibility to workshops, as well as making certain that disability accessibility for workshops are an essential part of workshop planning and available accommodations are included in workshop announcements.  Having remote accessibility means that scientists who are unable to travel due to financial, physical, or other limitations can still participate in learning the tools that they need to collaborate and remain competitive.  Remote options also allow scientists who cannot travel to participate in sharing their skills, and train the next generation of scientists.
 
    
 
 
 <!--Tools that a chronically ill researcher can use to remain active in the field. -->
-As a chronically ill researcher, I have found that computational tools have been invaluable in allowing me to continue working as an active researcher.  Not only do these skills make remote collaboration much easier/possible, these tools also make executing research much easier.   
-Version control  
-Programming  
-Database skills  
-
+As a chronically ill researcher, I have found that computational tools have been invaluable in allowing me to continue working as an active researcher.  Not only do these skills make remote collaboration much easier/possible, these tools also make executing research much easier.  I will also become involved with the AccessSTEM DO-IT (Disabilities, Opportunities, Internetworking, and Technology) program at the University of Washington as a mentor for disabled K-12 students.
 
 
 
