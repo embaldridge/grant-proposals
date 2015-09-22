@@ -10,11 +10,11 @@ http://www.nsf.gov/bio/prfb/applicant_how_to_apply_prfb.pdf
 #Project description
 ##Intro
 <!--1) a brief and informative introduction or background section--> 
-The scale over which an organism operates is central to understanding the processes that structure an assemblage or an ecological community.  The influence of ecological process may change with scale.  
+The scale over which an organism operates is central to understanding the processes that structure an assemblage or an ecological community.  The influence of ecological processes changes with scale.  
   
 <!--Put in figure-->
   
-This project will also demonstrate the utility and viability of fully remote, reproducible scientific collaboration using computational and ecoinformatics approaches, which provide a mechanism for chronically ill/disabled scientists to address central questions in ecology.
+This project will also demonstrate the utility and viability of fully remote, reproducible scientific collaboration using computational and ecoinformatics approaches.
 
 ##Research objectives, methods, and significance
 <!--2) a statement of research objectives, methods, and significance-->
@@ -50,11 +50,7 @@ Completely reproducible.  Command line Retriever | Extract and process data with
 <!--R seems to have some good packages already, and reinventing the wheel is probably a bad idea.-->
 
 ##Training objectives  
-Learn R  
-Learn unit testing  
-Learn temporal analysis techniques  
-Learn more about life history theory  
-Learn microbial macroecology  
+Training in ecological software development and spatial and temporal analytical techniques will complement and increase my current skill set and areas of expertise.  My doctoral research focused on using ecoinformatics and maximum likelihood methods with Python programming to test competing models of species abundance distributions.  I have limited experience with spatial and temporal analysis or programming in R, the primary statistical programming language used by ecologists.  This project would give me strong training in temporal and spatial analysis, experience in developing software in a programming language (R) that will make it easier for me to collaborate with other ecologists in future, and develop connections with colleagues in working with programming, statistics, and community ecology.  I will receive training in these skills through textbooks, computational resources, and mentoring.     
 
 
 ##Future directions/career development
@@ -62,7 +58,7 @@ Learn microbial macroecology
 
 Independent researcher  
 
-Despite challenges of chronic illness, I am able to remain an active researcher through a series of coping mechanism.  Besides contributing to the scientific process through research, I have been working and will continue to work to increase accessibility and awareness for chronically ill/disabled ecologists and ecologists from other under-represented groups. 
+Despite challenges of chronic illness, I am able to remain an active researcher through a series of coping mechanisms.  Besides contributing to the scientific process through research, I have been working and will continue to work to increase accessibility and awareness for chronically ill/disabled ecologists and ecologists from other under-represented groups. 
 
 #Career development
 <!--4) an explanation of how the fellowship activities will enhance your career development and future research directions as well as describing how this research differs from your dissertation research-->
