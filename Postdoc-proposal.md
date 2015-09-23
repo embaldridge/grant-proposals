@@ -8,13 +8,17 @@ http://www.nsf.gov/bio/prfb/applicant_how_to_apply_prfb.pdf
 <!--Prepare Project Description (Research and Training Plan).[6 page limit,including all figures, tables, etc.] The research and training plan presents the research that you will conduct and the training that you will receive during the fellowship period and how they relate to your career goals. Include in the research and training plan: 1) a brief and informative introduction or background section; 2) a statement of research objectives, methods, and significance; 3) training objectives and plan for achieving them (these may include scientific as well as other career preparation activities); 4) an explanation of how the fellowship activities will enhance your career development and future research directions as well as describing how this research differs from your dissertation research; 5) a justification of the choice of sponsoring scientist(s) and host institution(s); 6) a timetable with yearly goals with benchmarks for major anticipated outcomes; 7)a separate section within the narrative, a discussion of the broader impacts of the proposed activities.-->  
 
 #Project description
-##Intro
-<!--1) a brief and informative introduction or background section--> 
-The scale over which an organism operates is central to understanding the processes that structure an assemblage or an ecological community.  The influence of ecological processes changes with scale.  
+##Introduction
+<!--Put in good title here on the theme of identifying organismally relevant spatial and temporal scales.-->
+
+<!--1) a brief and informative introduction or background section-->
+A central problem in ecology is the effect of spatial and temporal scales on the study of pattern-generating mechanisms.  Identifying the scales that are organismally important across taxa is central to understanding the processes that structure an assemblage or an ecological community.  The influence of ecological processes changes with scale.  
   
 <!--Put in figure-->
   
+This project aims to address three major gaps in our ecological understanding of spatial and temporal scale.  I will be identifying relative scale (i.e., the spatial and temporal scales that are organismally relevant) and exploring the relationship between absolute and relative scale [sensu @meentemeyer1989geographical].
 This project will also demonstrate the utility and viability of fully remote, reproducible scientific collaboration using computational and ecoinformatics approaches.
+
 
 ##Research objectives, methods, and significance
 <!--2) a statement of research objectives, methods, and significance-->
