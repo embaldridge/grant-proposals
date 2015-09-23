@@ -10,8 +10,25 @@ be addressed.
 
 # Specific mentoring plan
 
+> An explanation of how the sp
+onsor(s) will determine what mentoring the applicant needs in 
+research, teaching, and career development skills and how these would be translated into a 
+specific plan that fosters the development of the applicant's future independent research 
+career.
+
 # Role of the sponsor in research
+
+> A  des
+cription of the role the sponsor(s) will play in the proposed research and training and the 
+other resources that will be available to the Fellow to complete his or her training plan during 
+the fellowship.
 
 # Description of limitations
 
-# Mentoring for teaching
+> A description of the limitations, if any
+,
+that will
+be placed on the Fellow regarding the 
+research following
+the conclusion of
+the fellowship
