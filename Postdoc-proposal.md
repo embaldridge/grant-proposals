@@ -40,6 +40,22 @@ Identify how life history/functional traits (like body size, but also things lik
 ##Methods
 Geographic ranges- migratory vs. non-migratory species.
 
+###Data
+I will use spatially and temporally explicit community abundance data covering a wide array of taxa.
+BBS,
+FIA
+MiscDB
+etc.
+
+Pre-existing datasets.
+Retriever
+
+Compiled data from the literature.
+Need for additional database.  Database of vertebrate home ranges contains a relatively small subset of vertebrate diversity.  I will compile additional home range data from the literature.  
+
+###Analysis
+Completely reproducible.  Command line Retriever | Extract and process data with postgres in Python | Analysis in R| Output results & graph
+
 ###Objective 1:Determine which spatial and temporal scales are organismally relevant.  
 
 ###Objective 2 :Identify the scales over which space-for-time substitutions can be made.   
@@ -49,15 +65,6 @@ Although space-for-time substitutions have been used in ecology with varying deg
 ###Objective 3:Identify strengths of ecological processes at different spatial and temporal scales.  
 
 
-###Data
-Pre-existing datasets.
-Retriever
-
-Compiled data from the literature.
-Need for additional database.  Database of vertebrate home ranges contains a relatively small subset of vertebrate diversity.  I will compile additional home range data from the literature.  
-
-###Analysis
-Completely reproducible.  Command line Retriever | Extract and process data with postgres in Python | Analysis in R| Output results & graph
 
 <!--R seems to have some good packages already, and reinventing the wheel is probably a bad idea.-->
 
