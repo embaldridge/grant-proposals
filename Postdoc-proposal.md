@@ -12,7 +12,7 @@ http://www.nsf.gov/bio/prfb/applicant_how_to_apply_prfb.pdf
 <!--Put in good title here on the theme of identifying organismally relevant spatial and temporal scales.-->
 
 <!--1) a brief and informative introduction or background section-->
-A central problem in ecology is the effect of spatial and temporal scales on the study of pattern-generating mechanisms.  Identifying the scales that are organismally important across taxa is central to understanding the processes that structure an assemblage or an ecological community.  The influence of ecological processes changes with scale.  
+A central problem in ecology is the effect of spatial and temporal scales on the study of pattern-generating mechanisms (ecological processes).  Identifying the scales that are organismally important across taxa is central to understanding the processes that structure an assemblage or an ecological community.  The influence of ecological processes changes with scale.  
   
 <!--Put in figure-->
   
@@ -38,7 +38,15 @@ Identify strengths of ecological processes at different spatial and temporal sca
 Identify how life history/functional traits (like body size, but also things like trophic level, storage effect related traits help partition the spatial and temporal scales that are organismally relevant.-->
 
 ##Methods
-Geographic ranges- migratory vs. non-migratory species.  
+Geographic ranges- migratory vs. non-migratory species.
+
+###Objective 1:Determine which spatial and temporal scales are organismally relevant.  
+
+###Objective 2 :Identify the scales over which space-for-time substitutions can be made.   
+Although space-for-time substitutions have been used in ecology with varying degrees of efficacy[@pickett1989space], there has been little work done on when space-for-time substitutions can be reasonably used, and over what scales, if any, the relationship between space and time is reliable.
+
+
+###Objective 3:Identify strengths of ecological processes at different spatial and temporal scales.  
 
 
 ###Data
@@ -73,7 +81,7 @@ The combination of computational, ecoinformatics, and quantitative skills is  a 
 ##Justification of sponsor(s) and host institution(s)
 <!--5) a justification of the choice of sponsoring scientist(s) and host institution(s)-->
 <!-- Description of awesome people with the skills and ideas that I want to work with-->
-*Timothée Poisot (University of Montreal)-computational ecology*
+*Timothée Poisot (University of Montreal)-computational ecology*  
 Poisot's research interests and skills make him an ideas sponsor for both the intellectual development and implementation of this project as well as an excellent mentor for developing and refining the computational skills that are an essential component of my training objectives.  **Poisot** is an Assistant Professor in the Department of Biological Sciences and is a member of the Quebec Centre for Biodiversity Science.  He is a strong advocate for open and reproducible science and his lab is heavily involved in creating well designed software for ecological analyses.  In additional to Poisot's computational expertise that will facilitate remote mentorship, the University of Montreal has extensive remotely accessible computational resources and offers webinar training for using the high-performance computing resources.
 
 
