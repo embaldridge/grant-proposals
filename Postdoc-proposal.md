@@ -45,6 +45,8 @@ I will use spatially and temporally explicit community abundance data covering a
 BBS,
 FIA
 MiscDB
+Plankton
+Microbes/metagenomes
 etc.
 
 Pre-existing datasets.
@@ -56,7 +58,8 @@ Need for additional database.  Database of vertebrate home ranges contains a rel
 ###Analysis
 Completely reproducible.  Command line Retriever | Extract and process data with postgres in Python | Analysis in R| Output results & graph
 
-###Objective 1:Determine which spatial and temporal scales are organismally relevant.  
+###Objective 1:Determine which spatial and temporal scales are organismally relevant.
+  
 
 ###Objective 2 :Identify the scales over which space-for-time substitutions can be made.   
 Although space-for-time substitutions have been used in ecology with varying degrees of efficacy[@pickett1989space], there has been little work done on when space-for-time substitutions can be reasonably used, and over what scales, if any, the relationship between space and time is reliable.
