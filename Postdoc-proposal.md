@@ -1,9 +1,4 @@
-<!--
-Postdoctoral Research Fellowships in Biology
-http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503622&org=BIO
-http://www.nsf.gov/bio/prfb/applicant_how_to_apply_prfb.pdf
-http://www.nsf.gov/bio/prfb/applicant_how_to_apply_prfb.pdf
--->
+<!--Postdoctoral Research Fellowships in Biology http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503622&org=BIO http://www.nsf.gov/bio/prfb/applicant_how_to_apply_prfb.pdf http://www.nsf.gov/bio/prfb/applicant_how_to_apply_prfb.pdf-->
 
 <!--Prepare Project Description (Research and Training Plan).[6 page limit,including all figures, tables, etc.] The research and training plan presents the research that you will conduct and the training that you will receive during the fellowship period and how they relate to your career goals. Include in the research and training plan: 1) a brief and informative introduction or background section; 2) a statement of research objectives, methods, and significance; 3) training objectives and plan for achieving them (these may include scientific as well as other career preparation activities); 4) an explanation of how the fellowship activities will enhance your career development and future research directions as well as describing how this research differs from your dissertation research; 5) a justification of the choice of sponsoring scientist(s) and host institution(s); 6) a timetable with yearly goals with benchmarks for major anticipated outcomes; 7)a separate section within the narrative, a discussion of the broader impacts of the proposed activities.-->  
 
@@ -34,11 +29,8 @@ Identify the scales over which space-for-time substitutions can be made.
 ###Objective 3
 Identify strengths of ecological processes at different spatial and temporal scales.
 
-<!--###Objective 4
-Identify how life history/functional traits (like body size, but also things like trophic level, storage effect related traits help partition the spatial and temporal scales that are organismally relevant.-->
-
 ##Methods
-Geographic ranges- migratory vs. non-migratory species.
+
 
 ###Data
 I will use spatially and temporally explicit community abundance data covering a wide array of taxa.
@@ -50,7 +42,8 @@ Microbes/metagenomes
 etc.
 
 Pre-existing datasets.
-Retriever
+Retriever  
+Geographic ranges- migratory vs. non-migratory species.
 
 Compiled data from the literature.
 Need for additional database.  Database of vertebrate home ranges contains a relatively small subset of vertebrate diversity.  I will compile additional home range data from the literature.  
