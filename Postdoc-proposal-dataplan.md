@@ -1,5 +1,4 @@
-<!--Data Management Plan:
-All applications must include a supplementary document of no more than two pages labeled "Data Management Plan". Describe plans for data management and sharing of the products of research, or assert the absence of the need for such plans. Upload this to Supplementary Documents–Data Management Plan.-->
+<!--Data Management Plan: All applications must include a supplementary document of no more than two pages labeled "Data Management Plan". Describe plans for data management and sharing of the products of research, or assert the absence of the need for such plans. Upload this to Supplementary Documents–Data Management Plan.-->
 #Data management plan
 ###Research products reuse and redistribution
 All research products, including code, data, presentations/posters, and publications will be open access and freely available for reuse without request during all stages of development under a Creative Commons Zero (CC0) license, following the Panton Principles guidelines (http://pantonprinciples.org).  This license dedicates the research products to the public domain without restriction, allowing for maximum reusability.
