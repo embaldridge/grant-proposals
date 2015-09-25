@@ -8,10 +8,10 @@ Postdoc-proposal-biosketch.pdf: Postdoc-proposal-biosketch.md Postdoc-proposal.b
 	pandoc -H format.sty -V fontsize=12pt --bibliography Postdoc-proposal.bib --csl=national-science-foundation-grant-proposals.csl Postdoc-proposal-biosketch.md -o Postdoc-proposal-biosketch.pdf
 
 Postdoc-proposal-summary.pdf: Postdoc-proposal-summary.md Postdoc-proposal.bib format.sty
-	pandoc -H format.sty -V fontsize=12pt --bibliography Postdoc-proposal-biosketch.bib --csl=national-science-foundation-grant-proposals.csl Postdoc-proposal-summary.md -o Postdoc-proposal-summary.pdf
+	pandoc -H format.sty -V fontsize=12pt --bibliography Postdoc-proposal.bib --csl=national-science-foundation-grant-proposals.csl Postdoc-proposal-summary.md -o Postdoc-proposal-summary.pdf
 
 Postdoc-proposal-mentoringplan.pdf: Postdoc-proposal-mentoringplan.md Postdoc-proposal.bib format.sty
-	pandoc -H format.sty -V fontsize=12pt --bibliography Postdoc-proposal-mentoringplan.bib --csl=national-science-foundation-grant-proposals.csl Postdoc-proposal-mentoringplan.md -o Postdoc-proposal-mentoringplan.pdf
+	pandoc -H format.sty -V fontsize=12pt --bibliography Postdoc-proposal.bib --csl=national-science-foundation-grant-proposals.csl Postdoc-proposal-mentoringplan.md -o Postdoc-proposal-mentoringplan.pdf
 
 
 
