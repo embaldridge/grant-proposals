@@ -1,7 +1,6 @@
 <!--Postdoctoral Research Fellowships in Biology http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503622&org=BIO http://www.nsf.gov/bio/prfb/applicant_how_to_apply_prfb.pdf http://www.nsf.gov/bio/prfb/applicant_how_to_apply_prfb.pdf-->
 
 <!--Prepare Project Description (Research and Training Plan).[6 page limit,including all figures, tables, etc.] The research and training plan presents the research that you will conduct and the training that you will receive during the fellowship period and how they relate to your career goals. Include in the research and training plan: 1) a brief and informative introduction or background section; 2) a statement of research objectives, methods, and significance; 3) training objectives and plan for achieving them (these may include scientific as well as other career preparation activities); 4) an explanation of how the fellowship activities will enhance your career development and future research directions as well as describing how this research differs from your dissertation research; 5) a justification of the choice of sponsoring scientist(s) and host institution(s); 6) a timetable with yearly goals with benchmarks for major anticipated outcomes; 7)a separate section within the narrative, a discussion of the broader impacts of the proposed activities.-->  
-
 **Project description**  
 **Introduction**  
 <!--Put in good title here on the theme of identifying organismally relevant spatial and temporal scales.-->
@@ -22,7 +21,6 @@ Determine which spatial and temporal scales are organismally relevant.
 
 **Objective 2**   
 Identify the scales over which space-for-time substitutions can be made. 
-
 
 **Objective 3**  
 Identify strengths of ecological processes at different spatial and temporal scales.
@@ -57,16 +55,11 @@ Unification of spatial and temporal scaling relationships across taxa.  Relative
 **Objective 2 :Identify the scales over which space-for-time substitutions can be made.**     
 Although space-for-time substitutions have been used in ecology with varying degrees of efficacy[@pickett1989space], there has been little work done on when space-for-time substitutions can be reasonably used, and over what scales, if any, the relationship between space and time is reliable.
 
-
 **Objective 3:Identify strengths of ecological processes at different spatial and temporal scales.**    
 The strength or impact of an ecological process is often scale dependent [@levin1992problem].  Understanding how process strength changes with both spatial and temporal scale will allow for greater accuracy in developing spatially and temporally explict process-based models.
 
-
-<!--R seems to have some good packages already, and reinventing the wheel is probably a bad idea.-->
-
 **Training objectives**    
 Training in ecological software development and spatial and temporal analytical techniques will complement and increase my current skill set and areas of expertise.  My doctoral research focused on using maximum likelihood methods with Python programming to test competing models of species abundance distributions.  I have limited experience with spatial and temporal analysis or programming in R, the primary statistical programming language used by ecologists.  This project would give me strong training in temporal and spatial analysis, experience in developing software in a programming language (R), and experience with a wide variety of data  that will make it easier for me to work as a research scientist through developing my skills in programming, statistics, and ecoinformatics.  I will receive training in these skills through textbooks, computational resources, and mentoring.     
-
 
 **Future directions/career development**  
 <!--3) training objectives and plan for achieving them (these may include scientific as well as other career preparation activities)-->
@@ -77,24 +70,26 @@ Despite challenges of chronic illness, I am able to remain an active researcher 
 
 The combination of computational, ecoinformatics, and quantitative skills is  a rare skill set among ecologists, and one that is particularly well suited to working remotely.  Developing these skills further while engaging in remote collaborations with scientists at other institutions will provide a clear demonstration that telecommuting and remote collaboration should be a more accepted method for employment in the sciences, much as it is in the computer/tech fields.  This paradigm shift supports not only scientists with disabilities/chronic illness, but also scientists who are unable to attend events in person for a variety of reasons.  In addition, developing these skills also provides a way for me to continue doing science without formal institutional support if necessary.  
  
-
 **Justification of sponsor(s) and host institution(s)**   
 <!--5) a justification of the choice of sponsoring scientist(s) and host institution(s)-->
 <!-- Description of awesome people with the skills and ideas that I want to work with-->
 *Timothée Poisot (University of Montreal)-computational ecology*  
 Poisot's research interests and skills make him an ideas sponsor for both the intellectual development and implementation of this project as well as an excellent mentor for developing and refining the computational skills that are an essential component of my training objectives.  **Poisot** is an Assistant Professor in the Department of Biological Sciences and is a member of the Quebec Centre for Biodiversity Science.  He is a strong advocate for open and reproducible science and his lab is heavily involved in creating well designed software for ecological analyses.  In additional to Poisot's computational expertise that will facilitate remote mentorship, the University of Montreal has extensive remotely accessible computational resources and offers webinar training for using the high-performance computing resources.
 
-
 <!--Final paragraph-->Due to my physical limitations, I will not be able to be physically present at the host institutions; however, I will be able to interact with colleagues on-site through a remote presence via a Kubi teleconferencing robot (https://www.revolverobotics.com/), which will allow me to have control over my movement on site, leading to more natural interactions.  Additionally, all the sponsoring scientists are well-versed in the computational tools and workflow that make it possible for me to effectively collaborate with others remotely.  
 
-   
 **Goals and benchmarks**   
 <!--6) a timetable with yearly goals with benchmarks for major anticipated outcomes; -->
 **Timeline**  
-| Timeline | Scientific Objectives | Broadening Participation Objectives | Communication of results |
-|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Year 1 | Phase 1: Design and compile animal home range database from the literature, prepare and process additional datasets for analysis.  Write analysis code and begin preliminary analysis for research objectives. | Communicate with Software and Data Carpentry and begin development and testing of remote workshop access.  Develop and blog about the implementation of tools and technology to facilitate remote collaboration. Be an AccessSTEM DO-IT mentor.  | Attend and present results at scientific meetings.  Submit initial publications.  Code, data, presentations, preprints will be fully open (GitHub, figshare, arXiv/bioRxiv). |
-| Year 2 | Phase 2: Finalize analyses for all objectives, disseminate results.  Make sure that the results of the analyses are completely reproducible from a single bash file that will call the rest of the scripts, from data downloading/processing through analysis to graphing. | Remotely teach Software/Data Carpentry workshops to remote participants.  Continue blogging efforts to increase awareness/provide tools for pursuing science with a chronic illness/disability. Continue serving as an AccessSTEM DO-IT mentor. | Submit remaining publications.  Archive publication versions of code via Zenodo.  Communicate results at meetings. |
+\begin{table}[]
+\centering
+\begin{tabular}{llll}
+\hline
+Timeline & Scientific Objectives & Broadening Participation Objectives & Communication of results \\ \hline
+Year 1 & Phase 1: Design/compile home range database from literature, prepare and process additional datasets.  Write analysis code/begin preliminaryanalysis for research objectives. & Begin development and testing of remote workshop access with Software \& Data Carpentry.  Develop/blog about implementation of tools/technology to facilitate  remote collaboration. Serve as AccessSTEM DO-IT mentor. & Present results at scientific meetings. Submit initial publications.  Code, data, presentations, preprints will be fully open (GitHub, figshare, arXiv/bioRxiv). \\
+Year 2 & Phase 2: Finalize analyses for all objectives, disseminate results.  Make sure results of analyses reproducible from single script, from data downloading/processing through  analysis/visualizations. & \begin{tabular}[c]{@{}l@{}}Remotely teach Software/Data Carpentry workshops to remote participants.  Continue blogging about ways to work remotely.\\ Continue serving as AccessSTEM DO-IT mentor.\end{tabular} & Submit remaining publications.  Archive publication versions of code via Zenodo.  Communicate results at meetings. \\ \hline
+\end{tabular}
+\end{table}
 
 
 Learn more spatial analysis techniques.
