@@ -2,8 +2,8 @@
 
 <!--Prepare Project Description (Research and Training Plan).[6 page limit,including all figures, tables, etc.] The research and training plan presents the research that you will conduct and the training that you will receive during the fellowship period and how they relate to your career goals. Include in the research and training plan: 1) a brief and informative introduction or background section; 2) a statement of research objectives, methods, and significance; 3) training objectives and plan for achieving them (these may include scientific as well as other career preparation activities); 4) an explanation of how the fellowship activities will enhance your career development and future research directions as well as describing how this research differs from your dissertation research; 5) a justification of the choice of sponsoring scientist(s) and host institution(s); 6) a timetable with yearly goals with benchmarks for major anticipated outcomes; 7)a separate section within the narrative, a discussion of the broader impacts of the proposed activities.-->  
 
-#Project description
-##Introduction
+**Project description**  
+**Introduction**  
 <!--Put in good title here on the theme of identifying organismally relevant spatial and temporal scales.-->
 
 <!--1) a brief and informative introduction or background section-->
@@ -15,75 +15,70 @@ This project aims to address three major gaps in our ecological understanding of
 This project will also demonstrate the utility and viability of fully remote, reproducible scientific collaboration using computational and ecoinformatics approaches.
 
 
-##Research objectives, methods, and significance
+**Research objectives, methods, and significance**  
 <!--2) a statement of research objectives, methods, and significance-->
-
-
-###Objective 1
+**Objective 1**  
 Determine which spatial and temporal scales are organismally relevant.  
 
-###Objective 2 
+**Objective 2**   
 Identify the scales over which space-for-time substitutions can be made. 
 
 
-###Objective 3
+**Objective 3**  
 Identify strengths of ecological processes at different spatial and temporal scales.
 
-##Methods
-Decomposition analysis
-Statistical modelling
-Bunches of data
+**Methods**  
+Decomposition analysis  
+Statistical modelling  
+Bunches of data  
 
-###Data
+**Data**  
 I will use spatially and temporally explicit community abundance data covering a wide array of taxa.
-BBS,
-FIA
-MiscDB
-Plankton
-Microbes/metagenomes
-etc.
+BBS    
+FIA  
+MiscDB  
+Plankton  
+Microbes/metagenomes  
+etc.  
 
-Pre-existing datasets.
-Retriever  
-Geographic ranges- migratory vs. non-migratory species.
+Pre-existing datasets.  
+Retriever    
+Geographic ranges- migratory vs. non-migratory species.  
 
 Compiled data from the literature.
 Need for additional database.  Database of vertebrate home ranges contains a relatively small subset of vertebrate diversity.  I will compile additional home range data from the literature.  
 
-###Analysis
+**Analysis**  
 Completely reproducible.  Command line Retriever | Extract and process data with postgres in Python | Analysis in R| Output results & graph
 
-###Objective 1:Determine which spatial and temporal scales are organismally relevant.
+**Objective 1:Determine which spatial and temporal scales are organismally relevant.**  
 Unification of spatial and temporal scaling relationships across taxa.  Relative also to ecological hierarchy (population vs. community), etc.    
 
-###Objective 2 :Identify the scales over which space-for-time substitutions can be made.   
+**Objective 2 :Identify the scales over which space-for-time substitutions can be made.**     
 Although space-for-time substitutions have been used in ecology with varying degrees of efficacy[@pickett1989space], there has been little work done on when space-for-time substitutions can be reasonably used, and over what scales, if any, the relationship between space and time is reliable.
 
 
-###Objective 3:Identify strengths of ecological processes at different spatial and temporal scales.  
+**Objective 3:Identify strengths of ecological processes at different spatial and temporal scales.**    
 The strength or impact of an ecological process is often scale dependent [@levin1992problem].  Understanding how process strength changes with both spatial and temporal scale will allow for greater accuracy in developing spatially and temporally explict process-based models.
 
 
 <!--R seems to have some good packages already, and reinventing the wheel is probably a bad idea.-->
 
-##Training objectives  
+**Training objectives**    
 Training in ecological software development and spatial and temporal analytical techniques will complement and increase my current skill set and areas of expertise.  My doctoral research focused on using maximum likelihood methods with Python programming to test competing models of species abundance distributions.  I have limited experience with spatial and temporal analysis or programming in R, the primary statistical programming language used by ecologists.  This project would give me strong training in temporal and spatial analysis, experience in developing software in a programming language (R), and experience with a wide variety of data  that will make it easier for me to work as a research scientist through developing my skills in programming, statistics, and ecoinformatics.  I will receive training in these skills through textbooks, computational resources, and mentoring.     
 
 
-##Future directions/career development
+**Future directions/career development**  
 <!--3) training objectives and plan for achieving them (these may include scientific as well as other career preparation activities)-->
-
-Independent researcher  
-
 Despite challenges of chronic illness, I am able to remain an active researcher through computational tools that allow me to perform research and collaborate with other scientists remotely.  Besides contributing to the scientific process through research, I have been working and will continue to work to increase accessibility and awareness for chronically ill/disabled ecologists and ecologists from other under-represented groups. 
 
-#Career development
+**Career development**  
 <!--4) an explanation of how the fellowship activities will enhance your career development and future research directions as well as describing how this research differs from your dissertation research-->
 
 The combination of computational, ecoinformatics, and quantitative skills is  a rare skill set among ecologists, and one that is particularly well suited to working remotely.  Developing these skills further while engaging in remote collaborations with scientists at other institutions will provide a clear demonstration that telecommuting and remote collaboration should be a more accepted method for employment in the sciences, much as it is in the computer/tech fields.  This paradigm shift supports not only scientists with disabilities/chronic illness, but also scientists who are unable to attend events in person for a variety of reasons.  In addition, developing these skills also provides a way for me to continue doing science without formal institutional support if necessary.  
  
 
-##Justification of sponsor(s) and host institution(s)
+**Justification of sponsor(s) and host institution(s)**   
 <!--5) a justification of the choice of sponsoring scientist(s) and host institution(s)-->
 <!-- Description of awesome people with the skills and ideas that I want to work with-->
 *Timothée Poisot (University of Montreal)-computational ecology*  
@@ -93,9 +88,9 @@ Poisot's research interests and skills make him an ideas sponsor for both the in
 <!--Final paragraph-->Due to my physical limitations, I will not be able to be physically present at the host institutions; however, I will be able to interact with colleagues on-site through a remote presence via a Kubi teleconferencing robot (https://www.revolverobotics.com/), which will allow me to have control over my movement on site, leading to more natural interactions.  Additionally, all the sponsoring scientists are well-versed in the computational tools and workflow that make it possible for me to effectively collaborate with others remotely.  
 
    
-##Goals and benchmarks
+**Goals and benchmarks**   
 <!--6) a timetable with yearly goals with benchmarks for major anticipated outcomes; -->
-##Timeline
+**Timeline**  
 | Timeline | Scientific Objectives | Broadening Participation Objectives | Communication of results |
 |----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Year 1 | Phase 1: Design and compile animal home range database from the literature, prepare and process additional datasets for analysis.  Write analysis code and begin preliminary analysis for research objectives. | Communicate with Software and Data Carpentry and begin development and testing of remote workshop access.  Develop and blog about the implementation of tools and technology to facilitate remote collaboration. Be an AccessSTEM DO-IT mentor.  | Attend and present results at scientific meetings.  Submit initial publications.  Code, data, presentations, preprints will be fully open (GitHub, figshare, arXiv/bioRxiv). |
@@ -108,17 +103,17 @@ Learn temporal analysis techniques.
 
 I want to continue to improve my scientific programming skills.
 
-##Broader impacts
+**Broader impacts**  
 <!--7)a separate section within the narrative, a discussion of the broader impacts of the proposed activities.-->
 <!--Inadequacy of current efforts to include chronically ill researchers.-->
-###Overview
+**Overview**  
 Working to improve opportunities and address structural inequalities to broaden participation for under-represented groups is, unfortunately part of being a member of an under-represented group or groups.  Having to self-advocate to improve structural inequalities and to obtain access as a member of an under-represented group robs researchers of valuable and limited time and energy that they could spend doing science, and many scientists belong to more than one category of under-represented group. One category of under-representation that is frequently overlooked is scientists who are facing short or long-term disability due to health conditions, either mental or physical.
 
 A lack of familiarity with disability/chronic illness means that accessibility accommodations tend to be post-hoc, and cause the vast majority of current efforts to provide accessibility to chronically ill/disabled scientists to be inadequate or non-existent. I have been active in bringing awareness to problems associated with being a scientist with a disability/chronic illness and providing solutions to include scientists with disabilities/chronic illness through blog posts, social media, and reaching out to organizations in my field.  I propose to use currently existing tools and technology to improve access for many categories of under-represented group through creating a framework for remote access tools for collaboration as well as remote options for learning to use those tools.  
 
 Remote scientific collaborations have been a way to facilitate participation by under-represented groups for a long time ( for example, women corresponding with male scientists through letters, only using their first initial).  Having a better framework to guide remote collaboration and participation can increase participation for scientists with disability/chronic illness, scientists from primarily undergraduate institutions, and scientists who lack the means to travel. Remote options are also available for mentoring chronically ill/disabled students who are interested in science. I will also become involved with the AccessSTEM DO-IT (Disabilities, Opportunities, Internetworking, and Technology) program at the University of Washington as a mentor for disabled K-12 students interested in pursuing a career in a STEM field. 
 
-###Broadening participation through tools and technology
+**Broadening participation through tools and technology**  
 Open science is also a powerful tool for increasing the accessibility of science for many different underrepresented groups, not only chronically ill/disabled researchers.  For example, people at primarily undergraduate institutions or who are unaffiliated with an institution often lack access to the funding and resources that larger institutions have.  An open approach to science allows access and sharing of educational tools and lessons, data, and papers that would be difficult or impossible to acquire otherwise.  Remote work, combined with open science approaches helps to equalize the conditions for primarily undergraduate institutions and researchers doing computational work, allowing them to remain more competitive with researchers at larger institutions, as well as create opportunities for communicating science to under-represented groups at the K-12 levels through developing lessons and outreach tools.
 
 <!--Plan for teaching these skills.-->
