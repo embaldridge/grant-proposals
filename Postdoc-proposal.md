@@ -30,7 +30,9 @@ Identify the scales over which space-for-time substitutions can be made.
 Identify strengths of ecological processes at different spatial and temporal scales.
 
 ##Methods
-
+Decomposition analysis
+Statistical modelling
+Bunches of data
 
 ###Data
 I will use spatially and temporally explicit community abundance data covering a wide array of taxa.
@@ -52,14 +54,14 @@ Need for additional database.  Database of vertebrate home ranges contains a rel
 Completely reproducible.  Command line Retriever | Extract and process data with postgres in Python | Analysis in R| Output results & graph
 
 ###Objective 1:Determine which spatial and temporal scales are organismally relevant.
-  
+Unification of spatial and temporal scaling relationships across taxa.  Relative also to ecological hierarchy (population vs. community), etc.    
 
 ###Objective 2 :Identify the scales over which space-for-time substitutions can be made.   
 Although space-for-time substitutions have been used in ecology with varying degrees of efficacy[@pickett1989space], there has been little work done on when space-for-time substitutions can be reasonably used, and over what scales, if any, the relationship between space and time is reliable.
 
 
 ###Objective 3:Identify strengths of ecological processes at different spatial and temporal scales.  
-
+The strength or impact of an ecological process is often scale dependent [@levin1992problem].  Understanding how process strength changes with both spatial and temporal scale will allow for greater accuracy in developing spatially and temporally explict process-based models.
 
 
 <!--R seems to have some good packages already, and reinventing the wheel is probably a bad idea.-->
