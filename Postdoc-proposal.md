@@ -7,7 +7,7 @@
 <!--Put in good title here on the theme of identifying organismally relevant spatial and temporal scales.-->
 
 <!--1) a brief and informative introduction or background section-->
-A central problem in ecology is the effect of spatial and temporal scales on the study of pattern-generating mechanisms (ecological processes).  Identifying the scales that are organismally important across taxa is central to understanding the processes that structure an assemblage or an ecological community.  The influence of ecological processes changes with scale.  
+A central problem in ecology is the effect of spatial and temporal scales on the study of pattern-generating mechanisms (ecological processes)[@levin1992problem].  Identifying the scales that are organismally important across taxa is central to understanding the processes that structure an assemblage or an ecological community.  The influence of ecological processes changes with scale.  
   
 <!--Put in figure-->
   
