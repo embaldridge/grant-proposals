@@ -25,7 +25,8 @@ Identify the scales over which space-for-time substitutions can be made.
 **Objective 3**  
 Identify strengths of ecological processes at different spatial and temporal scales.
 
-**Methods**  
+**Methods** 
+I will use a computationally and data-intensive approach to address these objectives.  Using data for a broad cross-section of biodiversity will allow for identification of patterns within taxa, but also will allow us to determine which patterns are generalizable across taxa, and allow for more rigorous testing of spatio-temporal scaling across taxa.
 Decomposition analysis  
 Statistical modelling  
 Bunches of data  
