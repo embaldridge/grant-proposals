@@ -26,12 +26,15 @@ Identify the scales over which space-for-time substitutions can be made.
 Identify strengths of ecological processes at different spatial and temporal scales.
 
 **Methods** 
-I will use a computationally and data-intensive approach to address these objectives.  Using data for a broad cross-section of biodiversity will allow for identification of patterns within taxa, but also will allow us to determine which patterns are generalizable across taxa, and allow for more rigorous testing of spatio-temporal scaling across taxa.
+Data-driven approaches to ecological questions (ecoinformatics) require the use of computationally intensive methods, but have been an increasingly valuable tool for biodiversity/ecological research [@michener2012ecoinformatics].  Ecoinformatics/macroecological approaches use large quantities of ecological data, often aggregated from the literature or from large survey efforts to address ecological questions using a comparative statistical approach [@brown1995macroecology; @kelling2009data], allowing ecologists to address questions at broader spatial or temporal scales and for a greater range of taxa than possible with a traditional field experimental approach.  
+
+Something about exploratory analysis and emergent statistical patterns.
 Decomposition analysis  
 Statistical modelling  
-Bunches of data  
 
 **Data**  
+[@reichman2011challenges]
+
 I will use spatially and temporally explicit community abundance data covering a wide array of taxa.
 BBS    
 FIA  
