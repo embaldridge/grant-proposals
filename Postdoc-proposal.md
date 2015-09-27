@@ -50,7 +50,7 @@ Need for additional database.  Database of vertebrate home ranges contains a rel
 Completely reproducible.  Command line Retriever | Extract and process data with postgres in Python | Analysis in R| Output results & graph
 
 **Objective 1:Determine which spatial and temporal scales are organismally relevant.**  
-Unification of spatial and temporal scaling relationships across taxa.  Relative also to ecological hierarchy (population vs. community), etc.    
+Ecology is the study of the distribution of organisms in relation to their environment, encompassing both spatial and temporal relationships.  Unification of spatial and temporal scaling relationships across taxa relative to an organism and the relative position in the ecological hierarchy (organism, population, community, etc.) will provide a framework for developing more accurate predictive models of ecological pattern and processes that are spatially/temporally explicit. 
 
 **Objective 2 :Identify the scales over which space-for-time substitutions can be made.**     
 Although space-for-time substitutions have been used in ecology with varying degrees of efficacy[@pickett1989space], there has been little work done on when space-for-time substitutions can be reasonably used, and over what scales, if any, the relationship between space and time is reliable.
@@ -86,7 +86,7 @@ Poisot's research interests and skills make him an ideas sponsor for both the in
 \begin{tabular}{llll}
 \hline
 Timeline & Scientific Objectives & Broadening Participation Objectives & Communication of results \\ \hline
-Year 1 & Phase 1: Design/compile home range database from literature, prepare and process additional datasets.  Write analysis code/begin preliminaryanalysis for research objectives. & Begin development and testing of remote workshop access with Software \& Data Carpentry.  Develop/blog about implementation of tools/technology to facilitate  remote collaboration. Serve as AccessSTEM DO-IT mentor. & Present results at scientific meetings. Submit initial publications.  Code, data, presentations, preprints will be fully open (GitHub, figshare, arXiv/bioRxiv). \\
+Year 1 & Phase 1: Design/compile home range database from literature, prepare and process additional datasets.  Write analysis code/begin preliminary analysis for research objectives. & Begin development and testing of remote workshop access with Software \& Data Carpentry.  Develop/blog about implementation of tools/technology to facilitate  remote collaboration. Serve as AccessSTEM DO-IT mentor. & Present results at scientific meetings. Submit initial publications.  Code, data, presentations, preprints will be fully open (GitHub, figshare, arXiv/bioRxiv). \\
 Year 2 & Phase 2: Finalize analyses for all objectives, disseminate results.  Make sure results of analyses reproducible from single script, from data downloading/processing through  analysis/visualizations. & \begin{tabular}[c]{@{}l@{}}Remotely teach Software/Data Carpentry workshops to remote participants.  Continue blogging about ways to work remotely.\\ Continue serving as AccessSTEM DO-IT mentor.\end{tabular} & Submit remaining publications.  Archive publication versions of code via Zenodo.  Communicate results at meetings. \\ \hline
 \end{tabular}
 \end{table}
