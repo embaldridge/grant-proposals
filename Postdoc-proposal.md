@@ -50,7 +50,8 @@ Geographic ranges- migratory vs. non-migratory species.
 Compiled data from the literature.
 Need for additional database.  Database of vertebrate home ranges contains a relatively small subset of vertebrate diversity.  I will compile additional home range data from the literature.  
 
-**Analysis**  
+**Analysis** 
+Exploratory analysis | graph | Develop further questions. 
 Completely reproducible.  Command line Retriever | Extract and process data with postgres in Python | Analysis in R| Output results & graph
 
 **Objective 1:Determine which spatial and temporal scales are organismally relevant.**  
