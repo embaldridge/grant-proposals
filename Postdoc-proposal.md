@@ -33,7 +33,7 @@ Decomposition analysis
 Statistical modelling  
 
 **Data**  
-[@reichman2011challenges]
+While there are challenges of using synthetic and publicly available datasets [see @reichman2011challenges], using a diverse array of publicly available datasets allows ecologists to leverage existing data to answer questions using a comparative approach, and also allows researchers who are unable to do field work to meaningfully contribute to ecological knowledge.
 
 I will use spatially and temporally explicit community abundance data covering a wide array of taxa.
 BBS    
