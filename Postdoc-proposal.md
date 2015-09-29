@@ -51,7 +51,7 @@ Compiled data from the literature.
 Need for additional database.  Database of vertebrate home ranges contains a relatively small subset of vertebrate diversity.  I will compile additional home range data from the literature.  
 
 **Analysis** 
-While a comparative approach can be a powerful approach for addressing broad ecological questions, the data needed to address these types of questions does not lend itself well to traditional hypothetico-deductive methods.  Rather, I will use an information-theoretic approach  [@addcitationoncecomputerquitsglitchingout] to generate simulated communities based on theoretical models, and then compare the simulated data to the empiricial data to determine which theoretical models have the best empirical support.  
+While a comparative approach can be a powerful approach for addressing broad ecological questions, the data needed to address these types of questions does not lend itself well to traditional hypothetico-deductive methods [@blackburn2004method].  Rather, I will use an information-theoretic approach   to generate simulated communities based on theoretical models, and then compare the simulated data to the empiricial data to determine which theoretical models have the best empirical support.  
 Completely reproducible.  Command line Retriever | Extract and process data with postgres in Python | Analysis in R| Output results & graph
 
 **Objective 1:Determine which spatial and temporal scales are organismally relevant.**  
