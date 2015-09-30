@@ -33,16 +33,11 @@ Decomposition analysis
 Statistical modelling  
 
 **Data**  
-While there are challenges of using synthetic and publicly available datasets [see @reichman2011challenges], using a diverse array of publicly available datasets allows ecologists to leverage existing data to answer questions using a comparative approach, and also allows researchers who are unable to do field work to meaningfully contribute to ecological knowledge.
+While there are challenges of using synthetic and publicly available datasets [see @reichman2011challenges], using a diverse array of publicly available datasets allows ecologists to leverage existing data to answer questions using a comparative approach.
 
-I will use spatially and temporally explicit community abundance data covering a wide array of taxa.
-BBS    
-FIA  
-MiscDB  
-Plankton  
-Microbes/metagenomes  
-etc.  
-
+I will use spatially and temporally explicit community abundance data covering a wide array of taxa.  Large, publicly availabe datasets include data for birds [@BBS], plants[@FIA;@plantsurveys], plankton [@plankton], and microbial [@microbial], as well as smaller datasets for other taxonomic groups [@MiscDB; etc.].
+ 
+For objective one, I will also use datasets that provide information on organismally relevant parameters at different scales, such as dispersal distance, home range sizes, maximum longevity, generation times, and geographic range size.
 Pre-existing datasets.  
 Retriever    
 Geographic ranges- migratory vs. non-migratory species.  
