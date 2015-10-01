@@ -47,7 +47,6 @@ Need for additional database.  Database of vertebrate home ranges contains a rel
 
 **Analysis** 
 While a comparative approach can be a powerful approach for addressing broad ecological questions, the data needed to address these types of questions does not lend itself well to traditional hypothetico-deductive methods [@blackburn2004method].  Rather, I will use an information-theoretic approach   to generate simulated communities based on theoretical models, and then compare the simulated data to the empiricial data to determine which theoretical models have the best empirical support.  
-Completely reproducible.  Command line Retriever | Extract and process data with postgres in Python | Analysis in R| Output results & graph
 
 **Objective 1:Determine which spatial and temporal scales are organismally relevant.**  
 Ecology is the study of the distribution of organisms in relation to their environment, encompassing both spatial and temporal relationships.  Unification of spatial and temporal scaling relationships across taxa relative to an organism and the relative position in the ecological hierarchy (organism, population, community, etc.) will provide a framework for developing more accurate predictive models of ecological pattern and processes that are spatially/temporally explicit. 
@@ -90,13 +89,6 @@ Year 1 & Phase 1: Design/compile home range database from literature, prepare an
 Year 2 & Phase 2: Finalize analyses for all objectives, disseminate results.  Make sure results of analyses reproducible from single script, from data downloading/processing through  analysis/visualizations. & \begin{tabular}[c]{@{}l@{}}Remotely teach Software/Data Carpentry workshops to remote participants.  Continue blogging about ways to work remotely.\\ Continue serving as AccessSTEM DO-IT mentor.\end{tabular} & Submit remaining publications.  Archive publication versions of code via Zenodo.  Communicate results at meetings. \\ \hline
 \end{tabular}
 \end{table}
-
-
-Learn more spatial analysis techniques.
-
-Learn temporal analysis techniques.
-
-I want to continue to improve my scientific programming skills.
 
 **Broader impacts**  
 <!--7)a separate section within the narrative, a discussion of the broader impacts of the proposed activities.-->
