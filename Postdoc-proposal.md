@@ -6,7 +6,7 @@
 <!--Put in good title here on the theme of identifying organismally relevant spatial and temporal scales.-->
 
 <!--1) a brief and informative introduction or background section-->
-A central problem in ecology is the effect of spatial and temporal scales on the study of pattern-generating mechanisms (ecological processes)[@levin1992problem].  Identifying the scales that are organismally important across taxa is central to understanding the processes that structure an assemblage or an ecological community.  The influence of ecological processes changes with scale.  
+A central problem in ecology is the effect of spatial and temporal scales on the study of pattern-generating mechanisms (ecological processes)[@levin1992problem].  Identifying the scales that are organismally important across taxa is central to understanding the processes that structure an assemblage or an ecological community.  The influence of ecological processes changes with scale, yet despite the twenty years that have passed since Levin's seminal paper, there are still many questions relating to scale that remain unanswered[@chave2013problem].  
   
 <!--Put in figure-->
   
@@ -49,7 +49,7 @@ Need for additional database.  Database of vertebrate home ranges contains a rel
 While a comparative approach can be a powerful approach for addressing broad ecological questions, the data needed to address these types of questions does not lend itself well to traditional hypothetico-deductive methods [@blackburn2004method].  Rather, I will use an information-theoretic approach   to generate simulated communities based on theoretical models, and then compare the simulated data to the empiricial data to determine which theoretical models have the best empirical support.  
 
 **Objective 1:Determine which spatial and temporal scales are organismally relevant.**  
-Ecology is the study of the distribution of organisms in relation to their environment, encompassing both spatial and temporal relationships.  Unification of spatial and temporal scaling relationships across taxa relative to an organism and the relative position in the ecological hierarchy (organism, population, community, etc.) will provide a framework for developing more accurate predictive models of ecological pattern and processes that are spatially/temporally explicit. 
+Unification of spatial and temporal scaling relationships across taxa relative to an organism and the relative position in the ecological hierarchy (organism, population, community, etc.) will provide a framework for developing more accurate predictive models of ecological pattern and processes that are spatially/temporally explicit. 
 
 **Objective 2 :Identify the scales over which space-for-time substitutions can be made.**     
 Although space-for-time substitutions have been used in ecology with varying degrees of efficacy[@pickett1989space], there has been little work done on when space-for-time substitutions can be reasonably used, and over what scales, if any, the relationship between space and time is reliable.
@@ -84,7 +84,7 @@ Poisot's research interests and skills make him an ideas sponsor for both the in
 \begin{tabular}{|p{.1\linewidth}|p{.3\linewidth}|p{.3\linewidth}|p{.3\linewidth}|}
 \hline
 Timeline & Scientific Objectives & Broadening Participation & Communication of Results \\ \hline
-Year 1 & Phase 1: Design/compile home range database from literature, prepare and process additional datasets. Write analysis code/begin preliminary analysis for research objectives. & Begin development and testing of remote workshop access with Software / Data Carpentry. Develop/blog about implementation of tools/technology to facilitate remote collaboration. Serve as AccessSTEM DO-IT mentor. & Present results at scientific meetings. Submit initial publications. Code, data, presentations, preprints will be fully open (GitHub, figshare, arXiv/bioRxiv). \\ \hline
+Year 1 & Phase 1: Design/compile home range database from literature, prepare and process additional datasets. Write analysis coUe/begin preliminary analysis for research objectives. & Begin development and testing of remote workshop access with Software / Data Carpentry. Develop/blog about implementation of tools/technology to facilitate remote collaboration. Serve as AccessSTEM DO-IT mentor. & Present results at scientific meetings. Submit initial publications. Code, data, presentations, preprints will be fully open (GitHub, figshare, arXiv/bioRxiv). \\ \hline
 Year 2 & Phase 2: Finalize analyses for all objectives, disseminate results through publication and presentation of results. & Remotely teach Software/Data Carpentry workshops to remote participants.  Continue blogging about ways to work remotely. Continue serving as AccessSTEM DO-IT mentor. & Submit remaining publications.  Archive publication versions of code via Zenodo.  Communicate results at meetings. \\ \hline
 \end{tabular}
 \end{table}
