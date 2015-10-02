@@ -81,12 +81,11 @@ Poisot's research interests and skills make him an ideas sponsor for both the in
 <!--6) a timetable with yearly goals with benchmarks for major anticipated outcomes; -->
 **Timeline**  
 \begin{table}[]
-\centering
-\begin{tabular}{llll}
+\begin{tabular}{|p{.1\linewidth}|p{.3\linewidth}|p{.3\linewidth}|p{.3\linewidth}|}
 \hline
-Timeline & Scientific Objectives & Broadening Participation Objectives & Communication of results \\ \hline
-Year 1 & Phase 1: Design/compile home range database from literature, prepare and process additional datasets.  Write analysis code/begin preliminary analysis for research objectives. & Begin development and testing of remote workshop access with Software \& Data Carpentry.  Develop/blog about implementation of tools/technology to facilitate  remote collaboration. Serve as AccessSTEM DO-IT mentor. & Present results at scientific meetings. Submit initial publications.  Code, data, presentations, preprints will be fully open (GitHub, figshare, arXiv/bioRxiv). \\
-Year 2 & Phase 2: Finalize analyses for all objectives, disseminate results.  Make sure results of analyses reproducible from single script, from data downloading/processing through  analysis/visualizations. & \begin{tabular}[c]{@{}l@{}}Remotely teach Software/Data Carpentry workshops to remote participants.  Continue blogging about ways to work remotely.\\ Continue serving as AccessSTEM DO-IT mentor.\end{tabular} & Submit remaining publications.  Archive publication versions of code via Zenodo.  Communicate results at meetings. \\ \hline
+Timeline & Scientific Objectives & Broadening Participation & Communication of Results \\ \hline
+Year 1 & Phase 1: Design/compile home range database from literature, prepare and process additional datasets. Write analysis code/begin preliminary analysis for research objectives. & Begin development and testing of remote workshop access with Software / Data Carpentry. Develop/blog about implementation of tools/technology to facilitate remote collaboration. Serve as AccessSTEM DO-IT mentor. & Present results at scientific meetings. Submit initial publications. Code, data, presentations, preprints will be fully open (GitHub, figshare, arXiv/bioRxiv). \\ \hline
+Year 2 & Phase 2: Finalize analyses for all objectives, disseminate results through publication and presentation of results. & Remotely teach Software/Data Carpentry workshops to remote participants.  Continue blogging about ways to work remotely. Continue serving as AccessSTEM DO-IT mentor. & Submit remaining publications.  Archive publication versions of code via Zenodo.  Communicate results at meetings. \\ \hline
 \end{tabular}
 \end{table}
 
