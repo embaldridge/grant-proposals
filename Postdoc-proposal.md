@@ -45,14 +45,16 @@ Something about exploratory analysis and emergent statistical patterns.
 Decomposition analysis  
 Statistical modelling   
 
-**Objective 1:Determine which spatial and temporal scales are organismally relevant.**  
-Unification of spatial and temporal scaling relationships across taxa relative to an organism and the relative position in the ecological hierarchy (organism, population, community, etc.) will provide a framework for developing more accurate predictive models of ecological pattern and processes that are spatially/temporally explicit. 
+**Objective 1: Determine which spatial and temporal scales are organismally relevant.**  
+Unification of spatial and temporal scaling relationships across taxa relative to an organism and the relative position in the ecological hierarchy (organism, population, community, etc.) will provide a framework for developing more accurate predictive models of ecological pattern and processes that are spatially/temporally explicit.
+ 
+**Objective 2: Derive a model for predicting the absolute scale across taxa  .**    
+Deriving a relationship between relative and absolute scale across taxa will provide guidelines for assessing data-deficient species and provide additional information for conservation planning. <!--[@citations]-->
 
-**Objective 2 :Identify the scales over which space-for-time substitutions can be made.**     
+**Objective 3: Identify the scales over which space-for-time substitutions can be made.**     
 Although space-for-time substitutions have been used in ecology with varying degrees of efficacy[@pickett1989space], there has been little work done on when space-for-time substitutions can be reasonably used, and over what scales, if any, the relationship between space and time is reliable.
 
-**Objective 3:Identify strengths of ecological processes at different spatial and temporal scales.**    
-The strength or impact of an ecological process is often scale dependent [@levin1992problem; @denny2004quantifying].  Understanding how process strength changes with both spatial and temporal scale will allow for greater accuracy in developing spatially and temporally explict process-based models.
+
 
 **Training objectives**    
 Training in ecological software development and spatial and temporal analytical techniques will complement and increase my current skill set and areas of expertise.  My doctoral research focused on using maximum likelihood methods with Python programming to test competing models of species abundance distributions.  I have limited experience with spatial and temporal analysis or programming in R, the primary statistical programming language used by ecologists.  This project would give me strong training in temporal and spatial analysis, experience in developing software in a programming language (R), and experience with a wide variety of data  that will make it easier for me to work as a research scientist through developing my skills in programming, statistics, and ecoinformatics.  I will receive training in these skills through textbooks, computational resources, and mentoring.     
