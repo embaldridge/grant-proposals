@@ -29,9 +29,6 @@ Identify the scales over which space-for-time substitutions can be made.
 **Methods** 
 Data-driven approaches to ecological questions (ecoinformatics) require the use of computationally intensive methods, but have been an increasingly valuable tool for biodiversity/ecological research [@michener2012ecoinformatics].  Ecoinformatics/macroecological approaches use large quantities of ecological data, often aggregated from the literature or from large survey efforts to address ecological questions using a comparative statistical approach [@brown1995macroecology; @kelling2009data], allowing ecologists to address questions at broader spatial or temporal scales and for a greater range of taxa than possible with a traditional field experimental approach.  
 
-Something about exploratory analysis and emergent statistical patterns.
-Decomposition analysis  
-Statistical modelling  
 
 **Data**  
 While there are challenges of using synthetic and publicly available datasets [see @reichman2011challenges], using a diverse array of publicly available datasets allows ecologists to leverage existing data to answer questions using a comparative approach.
@@ -42,7 +39,11 @@ I will also use datasets that provide information on organismally relevant param
  
 
 **Analysis** 
-While a comparative approach can be a powerful approach for addressing broad ecological questions, the data needed to address these types of questions does not lend itself well to traditional hypothetico-deductive methods [@blackburn2004method].  Rather, I will use an information-theoretic approach   to generate simulated communities based on theoretical models, and then compare the simulated data to the empiricial data to determine which theoretical models have the best empirical support.  
+While a comparative approach can be a powerful approach for addressing broad ecological questions, the data needed to address these types of questions does not lend itself well to traditional hypothetico-deductive methods [@blackburn2004method].  
+
+Something about exploratory analysis and emergent statistical patterns.
+Decomposition analysis  
+Statistical modelling   
 
 **Objective 1:Determine which spatial and temporal scales are organismally relevant.**  
 Unification of spatial and temporal scaling relationships across taxa relative to an organism and the relative position in the ecological hierarchy (organism, population, community, etc.) will provide a framework for developing more accurate predictive models of ecological pattern and processes that are spatially/temporally explicit. 
