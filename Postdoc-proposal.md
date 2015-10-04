@@ -4,13 +4,13 @@
 **Project description**  
 **Introduction**  
 <!--Put in good title here on the theme of identifying organismally relevant spatial and temporal scales.-->
-
-<!--1) a brief and informative introduction or background section-->
+<!--1) a brief and informative introduction or background section--> 
+<!--Local, regional, spatial, continental global, same type of thing for temporal.  Identifying relative transition points between scale changes and translating those changes to absolute scale.-->
 A central problem in ecology is the effect of spatial and temporal scales on the study of pattern-generating mechanisms (ecological processes)[@levin1992problem].  Identifying the scales that are organismally important across taxa is central to understanding the processes that structure an assemblage or an ecological community.  The influence of ecological processes changes with scale, yet despite the twenty years that have passed since Levin's seminal paper, there are still many questions relating to scale that remain unanswered[@chave2013problem].  
   
 <!--Put in figure-->
   
-This project aims to address three major gaps in our ecological understanding of spatial and temporal scale.  I will be identifying relative scale (i.e., the spatial and temporal scales that are organismally relevant) and exploring the relationship between absolute and relative scale [sensu @meentemeyer1989geographical].
+This project aims to address three major gaps in our ecological understanding of spatial and temporal scale.  I will  **1)**explore the relationship between absolute and relative scale [sensu @meentemeyer1989geographical] and identify the relative and absolute scales (i.e., the spatial and temporal scales that are organismally relevant.  <!--Not quite right yet, but close. --> Identifying <!--needs better word--> the relationship between relative and absolute scale will allow me to **2)** derive a model for predicting the absolute scale across taxa and **3)** identify the scales over which space-for-time substitutions can be made.
 This project will also demonstrate the utility and viability of fully remote, reproducible scientific collaboration using computational and ecoinformatics approaches.
 
 
