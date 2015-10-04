@@ -19,11 +19,12 @@ This project will also demonstrate the utility and viability of fully remote, re
 **Objective 1**  
 Determine which spatial and temporal scales are organismally relevant.  
 
-**Objective 2**   
-Identify the scales over which space-for-time substitutions can be made. 
+**Objective 2**
+Derive a model for predicting the absolute scale across taxa  
+
 
 **Objective 3**  
-Identify strengths of ecological processes at different spatial and temporal scales.
+Identify the scales over which space-for-time substitutions can be made. 
 
 **Methods** 
 Data-driven approaches to ecological questions (ecoinformatics) require the use of computationally intensive methods, but have been an increasingly valuable tool for biodiversity/ecological research [@michener2012ecoinformatics].  Ecoinformatics/macroecological approaches use large quantities of ecological data, often aggregated from the literature or from large survey efforts to address ecological questions using a comparative statistical approach [@brown1995macroecology; @kelling2009data], allowing ecologists to address questions at broader spatial or temporal scales and for a greater range of taxa than possible with a traditional field experimental approach.  
@@ -37,13 +38,8 @@ While there are challenges of using synthetic and publicly available datasets [s
 
 I will use spatially and temporally explicit community abundance data covering a wide array of taxa.  There is currently a diverse array of data suitable for testing, from large, publicly available datasets including birds [@BBS], plants[@fia], plankton [@plankton], and microbial [@meyer2008metagenomics] dataset, in addition to other smaller publicly available datasets [@MiscDB] and datasets that can be obtained through memoranda of understanding. 
  
-For objective one, I will also use datasets that provide information on organismally relevant parameters at different scales, such as dispersal distance, home range sizes, maximum longevity, generation times, and geographic range size.
-Pre-existing datasets.  
-Retriever    
-Geographic ranges- migratory vs. non-migratory species.  
-
-Compiled data from the literature.
-Need for additional database.  Database of vertebrate home ranges contains a relatively small subset of vertebrate diversity.  I will compile additional home range data from the literature.  
+I will also use datasets that provide information on organismally relevant parameters at different scales, such as dispersal distance, home range sizes, maximum longevity, generation times, and geographic range size.  While there are pre-existing datasets for some of these parameters, the largest home-range dataset is >600 vertebrate species, a relative small subset of vertebrate diversity.  Additional data will be collected from the literature to add to the currently available data.
+ 
 
 **Analysis** 
 While a comparative approach can be a powerful approach for addressing broad ecological questions, the data needed to address these types of questions does not lend itself well to traditional hypothetico-deductive methods [@blackburn2004method].  Rather, I will use an information-theoretic approach   to generate simulated communities based on theoretical models, and then compare the simulated data to the empiricial data to determine which theoretical models have the best empirical support.  
