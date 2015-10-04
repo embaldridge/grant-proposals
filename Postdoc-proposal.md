@@ -6,7 +6,8 @@
 <!--Put in good title here on the theme of identifying organismally relevant spatial and temporal scales.-->
 <!--1) a brief and informative introduction or background section--> 
 <!--Local, regional, spatial, continental global, same type of thing for temporal.  Identifying relative transition points between scale changes and translating those changes to absolute scale.-->
-A central problem in ecology is the effect of spatial and temporal scales on the study of pattern-generating mechanisms (ecological processes)[@levin1992problem].  Identifying the scales that are organismally important across taxa is central to understanding the processes that structure an assemblage or an ecological community.  The influence of ecological processes changes with scale, yet despite the twenty years that have passed since Levin's seminal paper, there are still many questions relating to scale that remain unanswered[@chave2013problem].  
+<!--A central problem in ecology is the effect of spatial and temporal scales on the study of pattern-generating mechanisms (ecological processes)[@levin1992problem].  Identifying the scales that are organismally important across taxa is central to understanding the processes that structure an assemblage or an ecological community.  The influence of ecological processes changes with scale, yet despite the twenty years that have passed since Levin's seminal paper, there are still many questions relating to scale that remain unanswered[@chave2013problem].  -->
+Much of ecological theory has been developed using relative scales that are organismally relevant (e.g. local vs. regional) (metapopulation theory, neutral theory, etc), but there has been little work done on the transition between local and regional scales, and the relationship between the organismally important relative scale and absolute scale, important for planning research studies as well as conservation efforts.    
   
 <!--Put in figure-->
   
