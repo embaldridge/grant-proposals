@@ -8,9 +8,7 @@
 <!--Local, regional, spatial, continental global, same type of thing for temporal.  Identifying relative transition points between scale changes and translating those changes to absolute scale.-->
 <!--A central problem in ecology is the effect of spatial and temporal scales on the study of pattern-generating mechanisms (ecological processes)[@levin1992problem].  Identifying the scales that are organismally important across taxa is central to understanding the processes that structure an assemblage or an ecological community.  The influence of ecological processes changes with scale, yet despite the twenty years that have passed since Levin's seminal paper, there are still many questions relating to scale that remain unanswered[@chave2013problem].  -->
 A central problem in ecology is the effect of spatial and temporal scales on the study of pattern-generating mechanisms (ecological processes)[@levin1992problem]. 
-However, much of ecological theory has been developed using relative scales (e.g. local vs. regional, demographic rates) (metapopulation theory, neutral theory, etc).  While theory is developed in relative scale, conservation planning and research studies need to operate on absolute scales (square kilometers, seasons, years).  The lack of theory   
-  
-<!--Put in figure-->
+However, much of ecological theory (metapopulation theory, neutral theory, etc.) has been developed using relative scales (e.g. local vs. regional, demographic rates).  While theory is developed in relative scale for greater generality across taxa, conservation planning and research studies need to operate on absolute scales (square kilometers, seasons, years).   
   
 This project aims to address three major gaps in our ecological understanding of spatial and temporal scale.  I will  **1)**explore the relationship between absolute and relative scale [sensu @meentemeyer1989geographical] across taxa.  <!--Not quite right yet, but close. --> Identifying <!--needs better word--> the relationship between relative and absolute scale will allow me to **2)** derive a model for predicting the absolute scale across taxa and **3)** identify the scales over which space-for-time substitutions can be made.
 This project will also demonstrate the utility and viability of fully remote, reproducible scientific collaboration using computational and ecoinformatics approaches.
@@ -20,7 +18,7 @@ This project will also demonstrate the utility and viability of fully remote, re
 **Research objectives, methods, and significance**  
 <!--2) a statement of research objectives, methods, and significance-->
 **Objective 1**  
-Determine which spatial and temporal scales are organismally relevant.  
+Explore the relationship between absolute and relative scale across taxa. 
 
 **Objective 2**
 Derive a model for predicting the absolute scale across taxa  
@@ -30,25 +28,27 @@ Derive a model for predicting the absolute scale across taxa
 Identify the scales over which space-for-time substitutions can be made. 
 
 **Methods** 
+<!--Needs tightening-->
 Data-driven approaches to ecological questions (ecoinformatics) require the use of computationally intensive methods, but have been an increasingly valuable tool for biodiversity/ecological research [@michener2012ecoinformatics].  Ecoinformatics/macroecological approaches use large quantities of ecological data, often aggregated from the literature or from large survey efforts to address ecological questions using a comparative statistical approach [@brown1995macroecology; @kelling2009data], allowing ecologists to address questions at broader spatial or temporal scales and for a greater range of taxa than possible with a traditional field experimental approach.  
 
 
 **Data**  
 While there are challenges of using synthetic and publicly available datasets [see @reichman2011challenges], using a diverse array of publicly available datasets allows ecologists to leverage existing data to answer questions using a comparative approach.
 
-I will use spatially and temporally explicit community abundance data covering a wide array of taxa.  There is currently a diverse array of data suitable for testing, from large, publicly available datasets including birds [@BBS], plants[@fia], plankton [@plankton], and microbial [@meyer2008metagenomics] dataset, in addition to other smaller publicly available datasets [@MiscDB] and datasets that can be obtained through memoranda of understanding. 
- 
-I will also use datasets that provide information on organismally relevant parameters at different scales, such as dispersal distance, home range sizes, maximum longevity, generation times, and geographic range size.  While there are pre-existing datasets for some of these parameters, the largest home-range dataset is >600 vertebrate species, a relative small subset of vertebrate diversity.  Additional data will be collected from the literature to add to the currently available data.
+**Abundance dataset**
+I will use spatially and temporally explicit community abundance data covering a wide array of taxa.  There is currently a diverse array of data suitable for testing, from large, publicly available datasets including birds [@BBS], plants[@fia], plankton [@plankton], and microbial [@meyer2008metagenomics] dataset, in addition to other smaller publicly available datasets [@MiscDB] and datasets that can be obtained through memoranda of understanding.  Community abundance data will allow me to explore two intraspecific macroecological patterns  
+
+
+**Species-specific data** 
+I will also use datasets that provide information on species parameters at different scales, such as dispersal distance, home range sizes, maximum longevity, generation times, and geographic range size.  While there are pre-existing datasets for some of these parameters, the largest home-range dataset is >600 vertebrate species, a relative small subset of vertebrate diversity.  Additional data will be collected from the literature to add to the currently available data.
  
 
 **Analysis** 
 While a comparative approach can be a powerful approach for addressing broad ecological questions, the data needed to address these types of questions does not lend itself well to traditional hypothetico-deductive methods [@blackburn2004method].  
 
-Something about exploratory analysis and emergent statistical patterns.
-Decomposition analysis  
-Statistical modelling   
+The most complete species-specific data is for terrestrial vertebrates.  I will begin my initial analyses with the terrestrial vertebrate groups and will generate a general model of the relationship between relative and absolute scale across taxa using species-specific data.  I will then try to extend the model using additional data from other taxa, and see how far it goes before the model becomes overly complex or non-predictive. 
 
-**Objective 1: Determine which spatial and temporal scales are organismally relevant.**  
+**Objective 1: Explore the relationship between absolute and relative scale across taxa.** 
 Unification of spatial and temporal scaling relationships across taxa relative to an organism and the relative position in the ecological hierarchy (organism, population, community, etc.) will provide a framework for developing more accurate predictive models of ecological pattern and processes that are spatially/temporally explicit.
  
 **Objective 2: Derive a model for predicting the absolute scale across taxa  .**    
