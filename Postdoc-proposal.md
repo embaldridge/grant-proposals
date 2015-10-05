@@ -10,7 +10,7 @@
 A central problem in ecology is the effect of spatial and temporal scales on the study of pattern-generating mechanisms (ecological processes)[@levin1992problem]. 
 However, much of ecological theory (metapopulation theory, neutral theory, etc.) has been developed using relative scales (e.g. local vs. regional, demographic rates).  While theory is developed in relative scale for greater generality across taxa, conservation planning and research studies need to operate on absolute scales (square kilometers, seasons, years).   
   
-This project aims to address three major gaps in our ecological understanding of spatial and temporal scale.  I will  **1)**explore the relationship between absolute and relative scale [sensu @meentemeyer1989geographical] across taxa.  <!--Not quite right yet, but close. --> Identifying <!--needs better word--> the relationship between relative and absolute scale will allow me to **2)** derive a model for predicting the absolute scale across taxa and **3)** identify the scales over which space-for-time substitutions can be made.
+This project aims to address three major gaps in our ecological understanding of spatial and temporal scale.  I will  **1)**explore the relationship between absolute and relative scale [sensu @meentemeyer1989geographical] across taxa.  <!--Not quite right yet, but close. --> Identifying <!--needs better word--> the relationship between relative and absolute scale will allow me to **2)** derive a model for unifying absolute and relative scales across taxa and **3)** identify the scales over which space-for-time substitutions can be made.
 This project will also demonstrate the utility and viability of fully remote, reproducible scientific collaboration using computational and ecoinformatics approaches.
 <!-- Intraspecific occupancy abundance (time), abundance distribution (space) relationships-->
 
@@ -21,8 +21,7 @@ This project will also demonstrate the utility and viability of fully remote, re
 Explore the relationship between absolute and relative scale across taxa. 
 
 **Objective 2**
-Derive a model for predicting the absolute scale across taxa  
-
+Derive a model for unifying absolute and relative scales across taxa.  
 
 **Objective 3**  
 Identify the scales over which space-for-time substitutions can be made. 
@@ -51,7 +50,7 @@ The most complete species-specific data is for terrestrial vertebrates.  I will 
 **Objective 1: Explore the relationship between absolute and relative scale across taxa.** 
 Unification of spatial and temporal scaling relationships across taxa relative to an organism and the relative position in the ecological hierarchy (organism, population, community, etc.) will provide a framework for developing more accurate predictive models of ecological pattern and processes that are spatially/temporally explicit.
  
-**Objective 2: Derive a model for predicting the absolute scale across taxa  .**    
+**Objective 2: Derive a model for unifying absolute and relative scales across taxa.**    
 Deriving a relationship between relative and absolute scale across taxa will provide guidelines for assessing data-deficient species and provide additional information for conservation planning. <!--[@citations]-->
 
 **Objective 3: Identify the scales over which space-for-time substitutions can be made.**     
