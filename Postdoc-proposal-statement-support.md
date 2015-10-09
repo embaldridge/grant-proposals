@@ -4,6 +4,8 @@
 
 ## Poisot
 
+Research in the group (*Laboratoire d'Écologie Quantitiative & Computationelle*) focuses on the variability of species interactions over time, space, and organisational scales. Key ongoing projects include linking the structure of ecological networks to ecosystem properties, understanding the role of local adaptation on the structure of communities in varying environments, and finding environmental drivers of the variation of species interactions. An emerging line of research deals with teasing out the effects of species traits, species abundance, local environment, and random chance on variations in the structure of ecological networks. Dr. Baldrige's research project will complement this axis of investigation nicely; we have a common focus on the role of body size distribution in community structure and responses.
+
 ## O'Dwyer
 
 # Current and pending research support
