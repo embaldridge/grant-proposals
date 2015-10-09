@@ -14,9 +14,7 @@ be addressed.
 
 ## Poisot
 
-Research in the lab is currently supported by a NSERC Discovery grant (26kCAD a year, 2015-2019), a FRQNT Early career investigator grant (16kCAD a year, 2015-2016), and a starting grant from the Université de Montréal (25kCAD, 2015-2018). We benefit from a computational ressource allocation of 260 core-years on Compute Québec supercomputers, which is shared among group members. Additional in-house computing resources are available through a hardware grant from Nvidia (2056 CUDA cores for GP-GPU computing), and through a FRQNT Equipment award (48 Intel Xeon cores for parallel computing).
-
-Additional ad-hoc support is available through the Québec Centre for Biodiversity Sciences, and through the Faculty for Graduate and Post-Doctoral Studies of the Université de Montréal.
+Research in the lab is currently supported by a NSERC Discovery grant (26kCAD a year, 2015-2019), a FRQNT Early career investigator grant (16kCAD a year, 2015-2016), and a starting grant from the Université de Montréal (25kCAD, 2015-2018). We benefit from a computational ressource allocation of 260 core-years on Compute Québec supercomputers, which is shared among group members. Additional in-house computing resources are available through a hardware grant from NVidia (2056 CUDA cores for GP-GPU computing), and through a FRQNT Equipment award (48 Intel Xeon cores for parallel computing). Additional ad-hoc support is available through the Québec Centre for Biodiversity Sciences, and through the Faculty for Graduate and Post-Doctoral Studies of the Université de Montréal.
 
 ## O'Dwyer
 
@@ -30,8 +28,7 @@ career.
 
 # Role of the sponsor in research
 
-> A  des
-cription of the role the sponsor(s) will play in the proposed research and training and the 
+> A  description of the role the sponsor(s) will play in the proposed research and training and the 
 other resources that will be available to the Fellow to complete his or her training plan during 
 the fellowship.
 
@@ -44,3 +41,5 @@ be placed on the Fellow regarding the
 research following
 the conclusion of
 the fellowship
+
+We anticipate that all research objects produced during the funding period will be released under licenses compliant with open science best practices (FOSS software packages, CC-BY preprints and/or publications, ...). The fellow will be identified as the primary producer of all products. This licensing choice will allow the fellow, and indeed everyone, to re-use all of the research that will be produced.
