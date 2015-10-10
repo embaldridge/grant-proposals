@@ -52,7 +52,7 @@ Data are important.  Much data is stuck in the literature.  Some attempts have b
 Deriving a relationship between relative and absolute scale across taxa will provide guidelines for assessing data-deficient species and provide additional information for conservation planning. <!--[@citations]-->
 
 **Objective 3: Identify the scales over which space-for-time substitutions can be made.**     
-Although space-for-time substitutions have been used in ecology with varying degrees of efficacy[@pickett1989space], there has been little work done on when space-for-time substitutions can be reasonably used, and over what scales, if any, the relationship between space and time is reliable.
+Space-for-time substitutions are based on the assumption that observing changes through space serves as a reasonable proxy for changes that are likely to occur through time[@pickett1989space]. Although space-for-time substitutions have been used in ecology with varying degrees of efficacy, the scales identified as potentially useful for space-for-time substitutions have been defined in relative terms (i.e., local([@pickett1989space]. I will use the intra-specific occupancy abundance (time) pattern, and the intra-specific abundance distribution pattern (space), to determine when space-for-time substitutions can be reasonably used, and over what absolute scales, if any, the relationship between space and time is reliable.
 
 
 **Training objectives**    
