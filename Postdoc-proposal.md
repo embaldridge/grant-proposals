@@ -7,7 +7,7 @@ Unifying relative and absolute scales.
 <!--1) a brief and informative introduction or background section--> 
 A central problem in ecology is the effect of spatial and temporal scales on the study of pattern-generating mechanisms (ecological processes)[@levin1992problem, @chave2013problem].<!--Needs reworking--> However, much of ecological theory (metapopulation theory, neutral theory, etc.) has been developed using relative measures of scale (e.g. local vs. regional, demographic parameters).  While theory is developed in relative scale for greater generality across taxa, conservation planning and research studies need to operate on absolute scales (square kilometers, years), creating a need for a synthesis between relative and absolute scales in ecology.   
   
-This project aims to address three major gaps in our ecological understanding of spatial and temporal scale.  I will  **1)**explore the relationship between absolute and relative scale [sensu @meentemeyer1989geographical] across taxa.  <!--Not quite right yet, but close. --> Identifying <!--needs better word--> the relationship between relative and absolute scale will allow me to **2)** derive a model for unifying absolute and relative scales across taxa and **3)** identify the scales over which space-for-time substitutions can be made.
+This project aims to address three major gaps in our ecological understanding of spatial and temporal scale.  I will  **1)**compile an extensive dataset on geographic range size, home range size, etc. that will will allow me to **2)** derive a model for unifying absolute and relative scales [sensu @meentemeyer1989geographical] across taxa and **3)** identify the scales over which space-for-time substitutions can be made.
 This project will also demonstrate the utility and viability of fully remote, reproducible scientific collaboration using computational and ecoinformatics approaches.
 <!-- Intraspecific occupancy abundance (time), abundance distribution (space) relationships-->
 
@@ -15,7 +15,7 @@ This project will also demonstrate the utility and viability of fully remote, re
 **Research objectives, methods, and significance**  
 <!--2) a statement of research objectives, methods, and significance-->
 **Objective 1**  
-Explore the relationship between absolute and relative scale across taxa. 
+Compile emergent traits database (home range size, geographic range size, etc.) from the literature, 
 
 **Objective 2**
 Derive a model for unifying absolute and relative scales across taxa.  
@@ -35,8 +35,8 @@ While there are challenges of using synthetic and publicly available datasets [s
 I will use spatially and temporally explicit community abundance data covering a wide array of taxa.  There is currently a diverse array of data suitable for testing, from large, publicly available datasets including birds [@BBS], plants[@fia], plankton [@plankton], and microbial [@meyer2008metagenomics] dataset, in addition to other smaller publicly available datasets [@MiscDB] and datasets that can be obtained through memoranda of understanding.  Community abundance data will allow me to explore two intraspecific macroecological patterns  
 
 
-**Species-specific data** 
-I will also use datasets that provide information on species parameters at different scales, such as dispersal distance, home range sizes, maximum longevity, generation times, and geographic range size.  While there are pre-existing datasets for some of these parameters, the largest home-range dataset is >600 vertebrate species, a relative small subset of vertebrate diversity.  Additional data will be collected from the literature to add to the currently available data.
+**Emergent species traits** 
+I will also use datasets that provide information on species parameters at different scales, such as dispersal distance, home range sizes, maximum longevity, generation times, and geographic range size.  While there are large pre-existing datasets that cover some of these parameters, the largest home-range dataset is >600 vertebrate species, a relatively small subset of vertebrate diversity.  Additional data will be collected from the literature to add to the currently available data.
  
 
 **Analysis** 
@@ -44,8 +44,9 @@ While a comparative approach can be a powerful approach for addressing broad eco
 
 The most complete species-specific data is for terrestrial vertebrates.  I will begin my initial analyses with the terrestrial vertebrate groups and will generate a general model of the relationship between relative and absolute scale across taxa using species-specific data.  I will then try to extend the model using additional data from other taxa, and see how far it goes before the model becomes overly complex or non-predictive. 
 
-**Objective 1: Explore the relationship between absolute and relative scale across taxa.** 
-Unification of spatial and temporal scaling relationships across taxa relative to an organism and the relative position in the ecological hierarchy (organism, population, community, etc.) will provide a framework for developing more accurate predictive models of ecological pattern and processes that are spatially/temporally explicit.
+**Objective 1: Compile emergent traits database.**  
+Data are important.  Much data is stuck in the literature.  Some attempts have been made to get the data out of the literature, but there is still much work to be done.
+
  
 **Objective 2: Derive a model for unifying absolute and relative scales across taxa.**    
 Deriving a relationship between relative and absolute scale across taxa will provide guidelines for assessing data-deficient species and provide additional information for conservation planning. <!--[@citations]-->
@@ -80,7 +81,7 @@ Due to my physical limitations, I will be interacting with colleagues on-site th
 \begin{tabular}{|p{.1\linewidth}|p{.3\linewidth}|p{.3\linewidth}|p{.3\linewidth}|}
 \hline
 Timeline & Scientific Objectives & Broadening Participation & Communication of Results \\ \hline
-Year 1 & Phase 1: Design/compile home range database from literature, prepare and process additional datasets. Write analysis coUe/begin preliminary analysis for research objectives. & Begin development and testing of remote workshop access with Software / Data Carpentry. Develop/blog about implementation of tools/technology to facilitate remote collaboration. Serve as AccessSTEM DO-IT mentor. & Present results at scientific meetings. Submit initial publications. Code, data, presentations, preprints will be fully open (GitHub, figshare, arXiv/bioRxiv). \\ \hline
+Year 1 & Phase 1: Design/compile home range database from literature, prepare and process additional datasets. Write analysis code/begin preliminary analysis for research objectives. & Begin development and testing of remote workshop access with Software / Data Carpentry. Develop/blog about implementation of tools/technology to facilitate remote collaboration. Serve as AccessSTEM DO-IT mentor. & Present results at scientific meetings. Submit initial publications. Code, data, presentations, preprints will be fully open (GitHub, figshare, arXiv/bioRxiv). \\ \hline
 Year 2 & Phase 2: Finalize analyses for all objectives, disseminate results through publication and presentation of results. & Remotely teach Software/Data Carpentry workshops to remote participants.  Continue blogging about ways to work remotely. Continue serving as AccessSTEM DO-IT mentor. & Submit remaining publications.  Archive publication versions of code via Zenodo.  Communicate results at meetings. \\ \hline
 \end{tabular}
 \end{table}
