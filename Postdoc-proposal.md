@@ -3,7 +3,7 @@
 <!--Prepare Project Description (Research and Training Plan).[6 page limit,including all figures, tables, etc.] The research and training plan presents the research that you will conduct and the training that you will receive during the fellowship period and how they relate to your career goals. Include in the research and training plan: 1) a brief and informative introduction or background section; 2) a statement of research objectives, methods, and significance; 3) training objectives and plan for achieving them (these may include scientific as well as other career preparation activities); 4) an explanation of how the fellowship activities will enhance your career development and future research directions as well as describing how this research differs from your dissertation research; 5) a justification of the choice of sponsoring scientist(s) and host institution(s); 6) a timetable with yearly goals with benchmarks for major anticipated outcomes; 7)a separate section within the narrative, a discussion of the broader impacts of the proposed activities.-->  
 **Project description**  
 **Introduction**  
-Unifying relative and absolute scales.
+A data-driven approach to unifying relative and absolute scales.
 <!--1) a brief and informative introduction or background section--> 
 A central problem in ecology is the effect of spatial and temporal scales on the study of pattern-generating mechanisms (ecological processes)[@levin1992problem, @chave2013problem].<!--Needs reworking--> However, much of ecological theory (metapopulation theory, neutral theory, etc.) has been developed using relative measures of scale (e.g. local vs. regional, demographic parameters).  While theory is developed in relative scale for greater generality across taxa, conservation planning and research studies need to operate on absolute scales (square kilometers, years), creating a need for a synthesis between relative and absolute scales in ecology.   
   
@@ -25,7 +25,7 @@ Identify the scales over which space-for-time substitutions can be made.
 
 **Methods** 
 <!--Needs tightening-->
-Data-driven approaches to ecological questions (ecoinformatics) require the use of computationally intensive methods, but have been an increasingly valuable tool for biodiversity/ecological research [@michener2012ecoinformatics].  Ecoinformatics/macroecological approaches use large quantities of ecological data, often aggregated from the literature or from large survey efforts to address ecological questions using a comparative statistical approach [@brown1995macroecology; @kelling2009data], allowing ecologists to address questions at broader spatial or temporal scales and for a greater range of taxa than possible with a traditional field experimental approach.  
+Data-driven approaches to ecological questions (ecoinformatics) require the use of computationally intensive methods, but have been an increasingly valuable tool for biodiversity/ecological research [@michener2012ecoinformatics].  Ecoinformatics/macroecological approaches use large quantities of ecological data, often aggregated from the literature or from large survey efforts to address ecological questions using a comparative statistical approach [@brown1995macroecology; @kelling2009data], allowing ecologists to address questions at broader spatial or temporal scales and for a greater range of taxa than possible with a traditional field experimental approach.    
 
 
 **Data**  
@@ -40,31 +40,27 @@ I will also use datasets that provide information on species parameters at diffe
  
 
 **Analysis** 
-While a comparative approach can be a powerful approach for addressing broad ecological questions, the data needed to address these types of questions does not lend itself well to traditional hypothetico-deductive methods [@blackburn2004method].  
-
-The most complete species-specific data is for terrestrial vertebrates.  I will begin my initial analyses with the terrestrial vertebrate groups and will generate a general model of the relationship between relative and absolute scale across taxa using species-specific data.  I will then try to extend the model using additional data from other taxa, and see how far it goes before the model becomes overly complex or non-predictive. 
+<!--While a comparative approach can be a powerful approach for addressing broad ecological questions, the data needed to address these types of questions does not lend itself well to traditional hypothetico-deductive methods [@blackburn2004method].-->  
 
 **Objective 1: Compile emergent traits database.**  
 Data are important.  Much data is stuck in the literature.  Some attempts have been made to get the data out of the literature, but there is still much work to be done.
 
  
 **Objective 2: Derive a model for unifying absolute and relative scales across taxa.**    
-Deriving a relationship between relative and absolute scale across taxa will provide guidelines for assessing data-deficient species and provide additional information for conservation planning. <!--[@citations]-->
+Deriving a relationship between relative and absolute scale across taxa will provide guidelines for assessing data-deficient species and provide additional information for conservation planning. <!--[@citations]-->  The most complete species-specific data is for terrestrial vertebrates.  I will begin my initial analyses with the terrestrial vertebrate groups and will generate a general model of the relationship between relative and absolute scale across taxa using species-specific data.  I will then try to extend the model using additional data from other taxa, and see how far it goes before the model becomes overly complex or non-predictive. 
 
 **Objective 3: Identify the scales over which space-for-time substitutions can be made.**     
 Space-for-time substitutions are based on the assumption that observing changes through space serves as a reasonable proxy for changes that are likely to occur through time[@pickett1989space]. Although space-for-time substitutions have been used in ecology with varying degrees of efficacy, the scales identified as potentially useful for space-for-time substitutions have been defined in relative terms (i.e., local([@pickett1989space]. I will use the intra-specific occupancy abundance (time) pattern, and the intra-specific abundance distribution pattern (space), to determine when space-for-time substitutions can be reasonably used, and over what absolute scales, if any, the relationship between space and time is reliable.
 
 
-**Training objectives**    
-Training in ecological software development and spatial and temporal analytical techniques will complement and increase my current skill set and areas of expertise.  My doctoral research focused on using maximum likelihood methods with Python programming to test competing models of species abundance distributions.  I have limited experience with spatial and temporal analysis or programming in R, the primary statistical programming language used by ecologists.  This project would give me strong training in temporal and spatial analysis, experience in developing software in a programming language (R), and experience with a wide variety of data  that will make it easier for me to work as a research scientist through developing my skills in programming, statistics, and ecoinformatics.  I will receive training in these skills through textbooks, computational resources, and mentoring.     
+**Training objectives and career development**
+<!--3) training objectives and plan for achieving them (these may include scientific as well as other career preparation activities)-->    
+Training in spatial and temporal analytical techniques and model building/testing will complement my current skill set in ecoinformatics and computational ecology.  I have a strong background in computational ecology and ecoinformatic and macroecological techniques through my doctoral work, which used a data-intensive, maximum likelihood based approach to compare species abundance distribution models. I have limited experience with modelling work and the most current spatial and temporal approaches. This project will give me strong training in cutting edge temporal and spatial analysis, model development and testing, experience in developing and testing software in an additional programming language (R), and further experience in ecoinformatics.  I will receive training in these skills through textbooks, remote training opportunities (webinars, online training/classes, remote attendance), and mentoring.  
+<!--4) an explanation of how the fellowship activities will enhance your career development and future research directions as well as describing how this research differs from your dissertation research--> 
+I am committed to remaining an active scientist despite challenges of chronic illness.  The combination of computational, ecoinformatics, and quantitative skills is  a rare skill set among ecologists, and one that is particularly well suited to working remotely. Developing these skills further while engaging in remote collaborations with scientists at other institutions will provide a clear demonstration that telecommuting and remote collaboration should be a more accepted method for employment in the sciences, much as it is in the computer/tech fields.  
 
-**Future directions/career development**  
-<!--3) training objectives and plan for achieving them (these may include scientific as well as other career preparation activities)-->
-Despite challenges of chronic illness, I am able to remain an active researcher through computational tools that allow me to perform research and collaborate with other scientists remotely.  Besides contributing to the scientific process through research, I have been working and will continue to work to increase accessibility and awareness for chronically ill/disabled ecologists and ecologists from other under-represented groups. 
+This paradigm shift supports not only scientists with disabilities/chronic illness, but also supports scientists who need to work remotely for a variety of reasons.  Increasing my computational, quantitative, and ecoinformatics skills will provide me with the maximum opportunity to continue performing research and collaborate with other scientists remotely, without formal institutional support if necessary.  
 
-**Career development**  
-<!--4) an explanation of how the fellowship activities will enhance your career development and future research directions as well as describing how this research differs from your dissertation research-->
-The combination of computational, ecoinformatics, and quantitative skills is  a rare skill set among ecologists, and one that is particularly well suited to working remotely.  Developing these skills further while engaging in remote collaborations with scientists at other institutions will provide a clear demonstration that telecommuting and remote collaboration should be a more accepted method for employment in the sciences, much as it is in the computer/tech fields.  This paradigm shift supports not only scientists with disabilities/chronic illness, but also scientists who are unable to attend events in person for a variety of reasons.  In addition, developing these skills also provides a way for me to continue doing science without formal institutional support if necessary.  
  
 **Justification of sponsor(s) and host institution(s)**   
 <!--5) a justification of the choice of sponsoring scientist(s) and host institution(s)-->
