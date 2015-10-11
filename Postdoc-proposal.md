@@ -68,6 +68,7 @@ I am a chronically ill/disabled scientist, and the nature of my condition requir
 
 **Goals and benchmarks**   
 <!--6) a timetable with yearly goals with benchmarks for major anticipated outcomes; -->
+<!--Fix table for three years.-->
 **Timeline**  
 \begin{table}[]
 \begin{tabular}{|p{.1\linewidth}|p{.3\linewidth}|p{.3\linewidth}|p{.3\linewidth}|}
