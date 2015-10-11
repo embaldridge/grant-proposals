@@ -31,12 +31,12 @@ Data-driven approaches to ecological questions (ecoinformatics) require the use 
 **Data**  
 While there are challenges of using synthetic and publicly available datasets [see @reichman2011challenges], using a diverse array of publicly available datasets allows ecologists to leverage existing data to answer questions using a comparative approach.
 
-**Abundance dataset**
-I will use spatially and temporally explicit community abundance data covering a wide array of taxa.  There is currently a diverse array of data suitable for testing, from large, publicly available datasets including birds [@BBS], plants[@fia], plankton [@plankton], and microbial [@meyer2008metagenomics] dataset, in addition to other smaller publicly available datasets [@MiscDB] and datasets that can be obtained through memoranda of understanding.  Community abundance data will allow me to explore two intraspecific macroecological patterns  
-
 
 **Emergent species traits** 
-I will also use datasets that provide information on species parameters at different scales, such as dispersal distance, home range sizes, maximum longevity, generation times, and geographic range size.  While there are large pre-existing datasets that cover some of these parameters, the largest home-range dataset is >600 vertebrate species, a relatively small subset of vertebrate diversity.  Additional data will be collected from the literature to add to the currently available data.
+I will also use datasets that provide information on species parameters at different scales, such as dispersal distance, home range sizes, maximum longevity, generation times, and geographic range size.  While there are  pre-existing datasets that cover some of these parameters [@gargantobase, @pantheria], the largest home-range dataset is >600 vertebrate species, a relatively small subset of vertebrate diversity.  Additional data will be collected from the literature to add to the currently available data.
+
+**Abundance data**
+I will use spatially and temporally explicit community abundance data from across the tree of life, from large, publicly available datasets including birds [@BBS], plants[@fia], plankton [@plankton], and microbial [@meyer2008metagenomics] dataset, in addition to other smaller publicly available datasets [@MiscDB] and datasets that can be obtained through memoranda of understanding.  Community abundance data will allow me to explore two intraspecific macroecological patterns, the intraspecific occupancy-abundance relationship (time) and the intraspecific                                             abundance-distribution relationship (space).
  
 
 **Analysis** 
