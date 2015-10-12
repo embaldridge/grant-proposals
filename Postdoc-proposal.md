@@ -68,14 +68,14 @@ I am a chronically ill/disabled scientist, and the nature of my condition requir
 
 **Goals and benchmarks**   
 <!--6) a timetable with yearly goals with benchmarks for major anticipated outcomes; -->
-<!--Fix table for three years.-->
-**Timeline**  
 \begin{table}[]
+\centering
+\caption{**Timeline** }
 \begin{tabular}{|p{.1\linewidth}|p{.3\linewidth}|p{.3\linewidth}|p{.3\linewidth}|}
 \hline
-Timeline & Scientific Objectives & Broadening Participation & Communication of Results \\ \hline
-Year 1 & Phase 1: Design/compile home range database from literature, prepare and process additional datasets. Write analysis code/begin preliminary analysis for research objectives. & Begin development and testing of remote workshop access with Software / Data Carpentry. Develop/blog about implementation of tools/technology to facilitate remote collaboration. Serve as AccessSTEM DO-IT mentor. & Present results at scientific meetings. Submit initial publications. Code, data, presentations, preprints will be fully open (GitHub, figshare, arXiv/bioRxiv). \\ \hline
-Year 2 & Phase 2: Finalize analyses for all objectives, disseminate results through publication and presentation of results. & Remotely teach Software/Data Carpentry workshops to remote participants.  Continue blogging about ways to work remotely. Continue serving as AccessSTEM DO-IT mentor. & Submit remaining publications.  Archive publication versions of code via Zenodo.  Communicate results at meetings. \\ \hline
+Timeline & Scientific Objectives                                                                                                                                                         & Broadening Participation                                                                                                                                                                                            & Communication of Results                                                                                                                                        \\ \hline
+Year 1   & Phase 1: Design/compile home range database from literature, prepare and process additional datasets. Write analysis code/begin preliminary analysis for research objectives. & Begin development and testing of remote workshop access with Software / Data Carpentry. Develop/blog about implementation of tools/technology to facilitate remote collaboration. Serve as AccessSTEM DO-IT mentor. & Present results at scientific meetings. Submit initial publications. Code, data, presentations, preprints will be fully open (GitHub, figshare, arXiv/bioRxiv). \\ \hline
+Year 2   & Phase 2: Finalize analyses for all objectives, disseminate results through publication and presentation of results.                                                           & Remotely teach Software/Data Carpentry workshops to remote participants.  Continue blogging about ways to work remotely. Continue serving as AccessSTEM DO-IT mentor.                                               & Submit remaining publications.  Archive publication versions of code via Zenodo.  Communicate results at meetings.                                              \\ \hline
 \end{tabular}
 \end{table}
 
