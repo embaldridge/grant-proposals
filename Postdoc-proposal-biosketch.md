@@ -1,7 +1,7 @@
 <!--Biographical Sketch[2 page limit]
 Submit your CV in the section Biographical Sketches. Follow the form
 given in the Grants Program Guide II.C.2.f.i for senior personnel. List conference abstracts and titles of presentations separate from peer-reviewed articles. For unpublished manuscripts, list only those submitted or accepted for publication (along with most likely date of publication).-->
-**Elita Baldridge**
+**Elita Baldridge**  
 **Professional Preparation**
 <!--A list of the individual’s undergraduate and graduate education and postdoctoral training (including location) as indicated below:
 **Undergraduate Training**
@@ -32,18 +32,23 @@ White, E.P, *E. Baldridge*+, Z.T. Brym+, K.J. Locey+, D.J. McGlinn+, S.R. Supp+.
 
 Outreach Coordinator, Ecological Society of American Open Science section, 2015-2016.
 
-Chair and founding member, Ecological Society of America Inclusive Ecology section 2016-2017.
+Founding chair/member, Ecological Society of America Inclusive Ecology section 2016-2017.
 
-####*MiscAbundanceDB*: Community abundance data for a variety of mostly vertebrate taxa.  
->Available on figshare at the following links:    
-*Metadata*: <http://dx.doi.org/10.6084/m9.figshare.95841>  
-*Sites table*: <http://dx.doi.org/10.6084/m9.figshare.95842x>  
-*Main data table*: <http://dx.doi.org/10.6084/m9.figshare.95843x>  
-*Citations table*: <http://dx.doi.org/10.6084/m9.figshare.95844>
+MiscAbundanceDB: Community abundance data for a variety of mostly vertebrate taxa.  Available at <http://figshare.com/articles/Community_abundance_data/769251>
 
 **Collaborators**
 <!--Collaborators and Co-Editors. A list of all persons in alphabetical order (including their current organizational affiliations) who are currently, or who have been collaborators or co-authors with the individual on a project, book, article, report, abstract or paper during the 48 months preceding the submission of the proposal.-->
 
+
 **Graduate Advisors and Postdoctoral Sponsors** 
 <!--A list of the names of the individual’s own graduate advisor(s) and principal postdoctoral sponsor(s), and their current organizational affiliations. The total number of graduate advisors and postdoctoral sponsors also must be identified.-->
+**Graduate advisors**
+1. Rob Channell, Department of Biological Sciences, Fort Hays State University (M.S. advisor)
+
+2. Ethan P. White, Wildlife Ecology and Conservation, University of Florida (Ph.D. advisor)
+
+**Postdoctoral sponsors**
+1. Timothée Poisot, Department of Biological Sciences and Quebec Centre for Biodiversity Science, University of Montreal (postdoctoral sponsor)
+
+2.James P. O'Dwyer, Department of Plant Biology, University of Illinois (postdoctoral sponsor)
 
