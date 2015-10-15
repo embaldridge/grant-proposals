@@ -24,7 +24,7 @@ Myhrvold, N.P., *E. Baldridge*, B. Chan, D. Sivam, D.L. Freeman, S.K.M. Ernest. 
 White, E.P, *E. Baldridge*+, Z.T. Brym+, K.J. Locey+, D.J. McGlinn+, S.R. Supp+. 2013. Nine simple ways to make it easier to (re)use your data. Ideas in Ecology and Evolution. 6(2): 1–10. [OA] <http://library.queensu.ca/ojs/index.php/IEE/article/view/4608/4898> 
 *(+: Authors contributed equally to the work.)*
 
-MiscAbundanceDB: Community abundance data for a variety of vertebrate taxa.  Available at <http://figshare.com/articles/Community_abundance_data/769251>
+*E. Baldridge* 2015. MiscAbundanceDB: Community abundance data for under-represented taxa. Submitted to Ecological Archives. Data available at <http://figshare.com/articles/Community_abundance_data/769251>
 
 **Synergistic Activities** 
 *E. Baldridge*, X. Xiao, E.P. White. 2015. An extensive comparison of species-abundance distribution models. [OA] *preprint, bioRxiv* http://dx.doi.org/10.1101/024802  
