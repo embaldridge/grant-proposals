@@ -41,11 +41,22 @@ Founding chair/member, Ecological Society of America Inclusive Ecology section 2
 
 Zachary T. Brym, Department of Biology and the Ecology Center, Utah State University
 
+Benjamin Chan, Intellectual Ventures, Bellevue, WA 
+
 Sean R. Connolly, College of Marine and Environmental Sciences, James Cook University
+
+S.K. Morgan Ernest, Department of Wildlife Ecology and Conservation, University
+of Florida
+
+Daniel L. Freeman, Intellectual Ventures, Bellevue, WA
 
 Kenneth J. Locey, Department of Biology, Indiana University   
 
 Daniel J. McGlinn, Biology Department, College of Charleston  
+
+Nathan P. Myhrvold, Intellectual Ventures, Bellevue, WA
+
+Dhileep Sivam, Intellectual Ventures, Bellevue, WA
 
 Sarah R. Supp, Department of Geography, University of Wisconsin-Madison
 
