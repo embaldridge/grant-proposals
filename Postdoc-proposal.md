@@ -1,8 +1,7 @@
 <!--Postdoctoral Research Fellowships in Biology http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503622&org=BIO http://www.nsf.gov/bio/prfb/applicant_how_to_apply_prfb.pdf http://www.nsf.gov/bio/prfb/applicant_how_to_apply_prfb.pdf-->
 
 <!--Prepare Project Description (Research and Training Plan).[6 page limit,including all figures, tables, etc.] The research and training plan presents the research that you will conduct and the training that you will receive during the fellowship period and how they relate to your career goals. Include in the research and training plan: 1) a brief and informative introduction or background section; 2) a statement of research objectives, methods, and significance; 3) training objectives and plan for achieving them (these may include scientific as well as other career preparation activities); 4) an explanation of how the fellowship activities will enhance your career development and future research directions as well as describing how this research differs from your dissertation research; 5) a justification of the choice of sponsoring scientist(s) and host institution(s); 6) a timetable with yearly goals with benchmarks for major anticipated outcomes; 7)a separate section within the narrative, a discussion of the broader impacts of the proposed activities.-->  
-**Project description**  
-**Introduction**  
+**Project description**   
 A data-driven approach to unifying relative and absolute scales.
 <!--1) a brief and informative introduction or background section--> 
 A central problem in ecology is the effect of spatial and temporal scales on the study of pattern-generating mechanisms (ecological processes)[@levin1992problem, @chave2013problem].<!--Needs reworking--> However, much of ecological theory (metapopulation theory, neutral theory, etc.) has been developed using relative measures of scale (e.g. local vs. regional, demographic parameters).  While theory is developed in relative scale for greater generality across taxa, conservation planning and research studies need to operate on absolute scales (square kilometers, years), creating a need for a synthesis between relative and absolute scales in ecology.   
@@ -14,8 +13,7 @@ This project aims to address three major gaps in our ecological understanding of
 <!--2) a statement of research objectives, methods, and significance-->
  I will address these gaps by **1)** compiling a dataset that will will allow me to **2)** derive a model for unifying absolute and relative scales [sensu @meentemeyer1989geographical] across taxa and **3)** identify the scales over which space-for-time substitutions can be made.  This project will also demonstrate the utility and viability of fully remote, reproducible scientific collaboration using computational and ecoinformatics approaches.
 
-**Methods** 
-<!--Needs tightening-->
+**Methods**   
 Data-driven approaches to ecological questions (ecoinformatics) require the use of computationally intensive methods, but have been an increasingly valuable tool for biodiversity/ecological research [@michener2012ecoinformatics].  Ecoinformatics/macroecological approaches use large quantities of ecological data, often aggregated from the literature or from large survey efforts to address ecological questions using a comparative statistical approach [@brown1995macroecology; @kelling2009data], an approach well suited for addresssing my objectives.
 
 **Data**  
