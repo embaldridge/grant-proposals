@@ -31,6 +31,8 @@ White, E.P, *E. Baldridge*+, Z.T. Brym+, K.J. Locey+, D.J. McGlinn+, S.R. Supp+.
  
 *Elita Baldridge* & Ethan White. Ecologist in silico: Facilitating access for chronically ill/disabled ecologists. [OA] <http://files.figshare.com/2201245/ESA_2015.pdf>
 
+GitHub code, project, and writing repositories at <https://github.com/embaldridge>
+
 Outreach Coordinator, Ecological Society of American Open Science section, 2015-2016.
 
 Founding chair/member, Ecological Society of America Inclusive Ecology section 2016-2017.
