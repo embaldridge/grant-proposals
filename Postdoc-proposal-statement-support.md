@@ -6,6 +6,8 @@
 
 Research in the group (*Laboratoire d'Écologie Quantitiative & Computationelle*) focuses on the variability of species interactions over time, space, and organisational scales. Key ongoing projects include linking the structure of ecological networks to ecosystem properties, understanding the role of local adaptation on the structure of communities in varying environments, and finding environmental drivers of the variation of species interactions. An emerging line of research deals with teasing out the effects of species traits, species abundance, local environment, and random chance on variations in the structure of ecological networks. Dr. Baldrige's research project will complement this axis of investigation nicely; we have a common focus on the role of body size distribution in community structure and responses.
 
+The research we do in the lab is embedded in several large scale collaborative efforts, aiming notably to use open ecological data to accelerate synthesis research. The Université de Montréal, through its Center for Biodiversity, the Québec Centre for Biodiversity Sciences, and the Compute Canada consortium, has access to high-availability, high-performance computing resources, and free on-demand consulting with programmers, analysts, algorithmicians, and data managers. The Department of Biological Sciences has a research group in Quantitative Biology formed by seven professors, including Poisot, whith a focus on the development and implementation of new quantitative tools for ecological sciences.
+
 ## O'Dwyer
 
 # Current and pending research support
@@ -16,7 +18,9 @@ be addressed.
 
 ## Poisot
 
-Research in the lab is currently supported by a NSERC Discovery grant (26kCAD a year, 2015-2019), a FRQNT Early career investigator grant (16kCAD a year, 2015-2016), and a starting grant from the Université de Montréal (25kCAD, 2015-2018). We benefit from a computational ressource allocation of 260 core-years on Compute Québec supercomputers, which is shared among group members. Additional in-house computing resources are available through a hardware grant from NVidia (2056 CUDA cores for GP-GPU computing), and through a FRQNT Equipment award (48 Intel Xeon cores for parallel computing). Additional ad-hoc support is available through the Québec Centre for Biodiversity Sciences, and through the Faculty for Graduate and Post-Doctoral Studies of the Université de Montréal.
+Research in the lab is currently supported by a NSERC Discovery grant (26k CAD a year, 2015-2019), a FRQNT Early career investigator grant (16k CAD a year, 2015-2016), and a starting grant from the Université de Montréal (25k CAD, 2015-2018). We benefit from a computational ressource allocation of 260 core-years on Compute Québec supercomputers, which is shared among group members. Additional in-house computing resources are available through a hardware grant from NVidia (2056 CUDA cores for GP-GPU computing), and through a FRQNT Equipment award (48 Intel Xeon cores for parallel computing). Additional ad-hoc support is available through the Québec Centre for Biodiversity Sciences, and through the Faculty for Graduate and Post-Doctoral Studies of the Université de Montréal.
+
+Pending support includes a Sloan Research Fellowship (55k USD for two years; submitted); a Simons Foundation targeted grant (200k USD yearly, for three years; letter of intent submitted); a Canadian Foundation for Innovation cyberinfrastructure group proposal (3M CAD for five years; submitted); a Canadia Foundation for Innovation Leadership single investigator award (100k CAD; submitted); a CIEE working group award (14k CAD; submitted).
 
 ## O'Dwyer
 
