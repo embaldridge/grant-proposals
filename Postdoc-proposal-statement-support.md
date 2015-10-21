@@ -32,17 +32,19 @@ research, teaching, and career development skills and how these would be transla
 specific plan that fosters the development of the applicant's future independent research 
 career.
 
+Dr. Baldrige has an established track record of producing independant research of the highest quality, as well as a recognized implication in the ecological community. As such, there is no doubt that she is already an independant investigator in her own right. Keeping this in mind informed the type of mentoring that we will provide. Specifically, we will
+
+1. Identify a list of desired skills, computationals and quantitative, and select training opportunities at either sponsor's institution, that Dr. Baldrige will be able to attend remotely. There are, for example, high-quality online courses in quantitative ecology and complexity sciences (such as the one organized by the *Santa Fe Institute*).
+2. Identify networking abilities, such as possible working groups in which Dr. Baldrige can make a contribution, as well as informal mentoring by other colleagues that can contribute to the project.
+3. Identify possibilities for professional growth, such as opportunities to assume leadership roles. It must be noted, however, that Dr. Baldrige *already* demonstrated her ability as a leader in her field, by (i) iniating, and succesfully creating, the *Inclusive ecology* section of the Ecological Society of America, and (ii) taking the role of communication officer in the *Open Science* section of the same society. 
+
+
 # Role of the sponsor in research
 
 > A  description of the role the sponsor(s) will play in the proposed research and training and the 
 other resources that will be available to the Fellow to complete his or her training plan during 
 the fellowship.
 
-Dr. Baldrige has an established track record of producing independant research of the highest quality, as well as a recognized implication in the ecological community. As such, there is no doubt that she is already an independant investigator in her own right. Keeping this in mind informed the type of mentoring that we will provide. Specifically, we will
-
-1. Identify a list of desired skills, computationals and quantitative, and select training opportunities at either sponsor's institution, that Dr. Baldrige will be able to attend remotely. There are, for example, high-quality online courses in quantitative ecology and complexity sciences (such as the one organized by the *Santa Fe Institute*).
-2. Identify networking abilities, such as possible working groups in which Dr. Baldrige can make a contribution, as well as informal mentoring by other colleagues that can contribute to the project.
-3. Identify possibilities for professional growth, such as opportunities to assume leadership roles. It must be noted, however, that Dr. Baldrige *already* demonstrated her ability as a leader in her field, by (i) iniating, and succesfully creating, the *Inclusive ecology* section of the Ecological Society of America, and (ii) taking the role of communication officer in the *Open Science* section of the same society. 
 
 # Description of limitations
 
