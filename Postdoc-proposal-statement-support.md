@@ -38,13 +38,18 @@ Dr. Baldrige has an established track record of producing independant research o
 2. Identify networking abilities, such as possible working groups in which Dr. Baldrige can make a contribution, as well as informal mentoring by other colleagues that can contribute to the project.
 3. Identify possibilities for professional growth, such as opportunities to assume leadership roles. It must be noted, however, that Dr. Baldrige *already* demonstrated her ability as a leader in her field, by (i) iniating, and succesfully creating, the *Inclusive ecology* section of the Ecological Society of America, and (ii) taking the role of communication officer in the *Open Science* section of the same society. 
 
-
 # Role of the sponsor in research
 
 > A  description of the role the sponsor(s) will play in the proposed research and training and the 
 other resources that will be available to the Fellow to complete his or her training plan during 
 the fellowship.
 
+Within the context of the proposed research, we will adhere to the following mentoring strategy. 
+
+1. In the purpose of strenghtening Dr. Baldrige's ability to conduct independant research, we will have little input in the initial orientation of each sub-project. We will, however, give feedback and make suggestions on complete project descriptions before moving on to implementation.
+2. We will ensure that Dr. Baldrige takes advantage of enough training opportunities, at a rate that does not interfer with research activities; one training session every semester *at most* seems like a reasonable estimate.
+3. We will work *in collaboration* with Dr. Baldrige on the actual research, by contributing to data analysis, code, and the redaction of publications. Dr. Baldrige will nevertheless assume the role of principal investigator on every project she decides to start.
+4. We will offer Dr. Baldrige advice on how many projects she should start, and help, if need be, refine the scope and the span of each project.
 
 # Description of limitations
 
