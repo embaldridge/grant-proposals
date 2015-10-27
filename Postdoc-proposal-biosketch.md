@@ -21,7 +21,7 @@ Utah State University, Logan UT; 2015
 [OA]: The published paper is open access (or at least free to read)  
 [OA version]: Link to an open or free version of the paper if the published version is not open access.  
 
-Myhrvold, N.P., **E. Baldridge**, B. Chan, D. Sivam, D.L. Freeman, S.K.M. Ernest. In Press. An Amniote Life History Database to Perform Comparative Analyses with Birds, Mammals, and Reptiles. Ecology (Ecological Archives Data Paper) [OA] 
+Myhrvold, N.P., **E. Baldridge**, B. Chan, D. Sivam, D.L. Freeman, S.K.M. Ernest. 2015. An Amniote Life History Database to Perform Comparative Analyses with Birds, Mammals, and Reptiles. Ecology 96:3109 [OA] 
 
 White, E.P, **E. Baldridge**+ Z.T. Brym+, K.J. Locey+, D.J. McGlinn+, S.R. Supp+. 2013. Nine simple ways to make it easier to (re)use your data. Ideas in Ecology and Evolution. 6(2): 1–10. [OA] <http://library.queensu.ca/ojs/index.php/IEE/article/view/4608/4898> 
 *(+: Authors contributed equally to the work.)*
