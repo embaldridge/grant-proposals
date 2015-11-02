@@ -1,20 +1,18 @@
 # Ongoing research projects in the host group
 
-> A brief description of the research projects in the host research group(s) along with a description of how the research and training plan for the applicant would fit into and complement ongoing research of the sponsor(s)  and an indication of the personnel with whom the Fellow would work.
-
-## Poisot
+## Timothée Poisot (Université de Montréal) - Quantitative and Computational Ecology
 
 Research in the group (*Laboratoire d'Écologie Quantitiative & Computationelle*) focuses on the variability of species interactions over time, space, and organisational scales. Key ongoing projects include linking the structure of ecological networks to ecosystem properties, understanding the role of local adaptation on the structure of communities in varying environments, and finding environmental drivers of the variation of species interactions. An emerging line of research deals with teasing out the effects of species traits, species abundance, local environment, and random chance on variations in the structure of ecological networks. Dr. Baldrige's research project will complement this axis of investigation nicely; we have a common focus on the role of body size distribution in community structure and responses.
 
 The research we do in the lab is embedded in several large scale collaborative efforts, aiming notably to use open ecological data to accelerate synthesis research. The Université de Montréal, through its Center for Biodiversity, the Québec Centre for Biodiversity Sciences, and the Compute Canada consortium, has access to high-availability, high-performance computing resources, and free on-demand consulting with programmers, analysts, algorithmicians, and data managers. The Department of Biological Sciences has a research group in Quantitative Biology formed by seven professors, including Poisot, whith a focus on the development and implementation of new quantitative tools for ecological sciences.
 
-## O'Dwyer
+## James O’Dwyer (University of Illinois at Urbana-Champaign) – Theoretical Ecology
+
+O’Dwyer is an Assistant Professor in the Department of Plant Biology and an affiliate of the Program in Ecology, Evolution and Conservation and Institute for Genomic Biology at the University Illinois. His lab is highly interdisciplinary, drawing from computer science, physics and mathematics to address questions in biodiversity theory. O’Dwyer will also make available additional computing resources where necessary for the project.
+
+The O'Dwyer lab studies the mechanisms underlying spatial and temporal distributions of organisms and species. The lab’s overarching questions center around the many quantitative patterns of biodiversity that have been found to display similar forms across disparate ecological systems, from the human microbiome to tropical forests. Some key research programs in the lab have involved neutral and nearly-neutral models of biodiversity, using alternative currencies of biodiversity (for example phylogenetic diversity, taking into account the evolutionary relatedness of organisms), and the inference of model parameters from noisy and undersampled empirical data. Tackling these questions requires an interdisciplinary approach, which is reflected in the backgrounds of lab personnel and collaborations.
 
 # Current and pending research support
-
-> A statement of current and pending research support, both private and public, for each 
-sponsor. If any sponsor has submitted similar research for funding, the degree of overlap must 
-be addressed.
 
 ## Poisot
 
@@ -24,13 +22,11 @@ Pending support includes a Sloan Research Fellowship (55k USD for two years; sub
 
 ## O'Dwyer
 
-# Specific mentoring plan
+Research in the O’Dwyer lab is currently supported by four sources.  Start-up from the University of Illinois; an Investigator award in the Mathematical Modeling of Living systems from the Simons Foundation (PI, $100k/year, 5 years); a complex systems scholar award from the McDonnell Foundation (PI, $450k total, 5 years); and a grant from the Templeton World Charity Foundation in collaboration with the Santa Fe Institute (co-PI, $150k subaward, 3 years duration).
 
-> An explanation of how the sp
-onsor(s) will determine what mentoring the applicant needs in 
-research, teaching, and career development skills and how these would be translated into a 
-specific plan that fosters the development of the applicant's future independent research 
-career.
+Pending support includes an NSF Division of Environmental Biology award (co-PI, $731,791, 3 years) and a Sloan foundation fellowship ($55k, 2 years).
+
+# Specific mentoring plan
 
 Dr. Baldrige has an established track record of producing independant research of the highest quality, as well as a recognized implication in the ecological community. As such, there is no doubt that she is already an independant investigator in her own right. Keeping this in mind informed the type of mentoring that we will provide. Specifically, we will
 
@@ -40,10 +36,6 @@ Dr. Baldrige has an established track record of producing independant research o
 
 # Role of the sponsor in research
 
-> A  description of the role the sponsor(s) will play in the proposed research and training and the 
-other resources that will be available to the Fellow to complete his or her training plan during 
-the fellowship.
-
 Within the context of the proposed research, we will adhere to the following mentoring strategy. 
 
 1. In the purpose of strenghtening Dr. Baldrige's ability to conduct independant research, we will have little input in the initial orientation of each sub-project. We will, however, give feedback and make suggestions on complete project descriptions before moving on to implementation.
@@ -52,13 +44,5 @@ Within the context of the proposed research, we will adhere to the following men
 4. We will offer Dr. Baldrige advice on how many projects she should start, and help, if need be, refine the scope and the span of each project.
 
 # Description of limitations
-
-> A description of the limitations, if any
-,
-that will
-be placed on the Fellow regarding the 
-research following
-the conclusion of
-the fellowship
 
 We anticipate that all research objects produced during the funding period will be released under licenses compliant with open science best practices (FOSS software packages, CC-BY preprints and/or publications, ...). The fellow will be identified as the primary producer of all products. This licensing choice will allow the fellow, and indeed everyone, to re-use all of the research that will be produced.
