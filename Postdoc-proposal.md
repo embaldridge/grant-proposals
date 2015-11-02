@@ -1,126 +1,85 @@
-<!--
-Postdoctoral Research Fellowships in Biology
-http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503622&org=BIO
-http://www.nsf.gov/bio/prfb/applicant_how_to_apply_prfb.pdf
-http://www.nsf.gov/bio/prfb/applicant_how_to_apply_prfb.pdf
--->
+<!--Postdoctoral Research Fellowships in Biology http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503622&org=BIO http://www.nsf.gov/bio/prfb/applicant_how_to_apply_prfb.pdf http://www.nsf.gov/bio/prfb/applicant_how_to_apply_prfb.pdf-->
 
-<!--Prepare Project Description (Research and Training Plan).[6 page limit,including all figures, tables, etc.] The research and training plan presents the research that you will conduct and the training that you will receive during the fellowship period and how they relate to your career goals. Include in the research and training plan: 1) a brief and informative introduction or background section; 2) a statement of research objectives, methods, and significance; 3) training objectives and plan for achieving them (these may include scientific as well as other career preparation activities); 4) an explanation of how the fellowship activities will enhance your career development and future research directions as well as describing how this research differs from your dissertation research; 5) a justification of the choice of sponsoring scientist(s) and host institution(s); 6) a timetable with yearly goals with benchmarks for major anticipated outcomes; 7)a separate section within the narrative, a discussion of the broader impacts of the proposed activities.-->  
-
-#Project description
-##Introduction
-<!--Put in good title here on the theme of identifying organismally relevant spatial and temporal scales.-->
-
-<!--1) a brief and informative introduction or background section-->
-A central problem in ecology is the effect of spatial and temporal scales on the study of pattern-generating mechanisms.  Identifying the scales that are organismally important across taxa is central to understanding the processes that structure an assemblage or an ecological community.  The influence of ecological processes changes with scale.  
+<!--Prepare Project Description (Research and Training Plan).[6 page limit,including all figures, tables, etc.] The research and training plan presents the research that you will conduct and the training that you will receive during the fellowship period and how they relate to your career goals. Include in the research and training plan: 1) a brief and informative introduction or background section; 2) a statement of research objectives, methods, and significance; 3) training objectives and plan for achieving them (these may include scientific as well as other career preparation activities); 4) an explanation of how the fellowship activities will enhance your career development and future research directions as well as describing how this research differs from your dissertation research; 5) a justification of the choice of sponsoring scientist(s) and host institution(s); 6) a timetable with yearly goals with benchmarks for major anticipated outcomes; 7)a separate section within the narrative, a discussion of the broader impacts of the proposed activities.-->
+**A data-driven approach to unifying relative and absolute scales.**    
+**Project description**   
+<!--1) a brief and informative introduction or background section--> 
+A central problem in ecology is the effect of spatial and temporal scales on the study of pattern-generating mechanisms (ecological processes)[@levin1992problem, @chave2013problem].<!--Needs reworking--> However, much of ecological theory (metapopulation theory, neutral theory, etc.) has been developed using relative measures of scale (e.g. local vs. regional, demographic parameters).  While theory is developed in relative scale for greater generality across taxa, conservation planning and research studies need to operate on absolute scales (square kilometers, years), creating a need for a synthesis between relative and absolute scales in ecology.   
   
-<!--Put in figure-->
-  
-This project aims to address three major gaps in our ecological understanding of spatial and temporal scale.  I will be identifying relative scale (i.e., the spatial and temporal scales that are organismally relevant) and exploring the relationship between absolute and relative scale [sensu @meentemeyer1989geographical].
-This project will also demonstrate the utility and viability of fully remote, reproducible scientific collaboration using computational and ecoinformatics approaches.
+This project aims to address three major gaps in our ecological understanding of spatial and temporal scale, **1)** a lack of available data to rigorously address the problem, **2)** a lack of a working model to relate absolute and relative scale, and **3)** a lack of understanding of when space-for-time substitutions can be employed. 
+<!-- Intraspecific occupancy abundance (time), abundance distribution (space) relationships-->
 
-
-##Research objectives, methods, and significance
+**Research objectives, methods, and significance**  
 <!--2) a statement of research objectives, methods, and significance-->
+ I will address these gaps by **1)** compiling a dataset that will will allow me to **2)** derive a model for unifying absolute and relative scales [sensu @meentemeyer1989geographical] across taxa and **3)** identify the scales over which space-for-time substitutions can be made.  This project will also demonstrate the utility and viability of fully remote, reproducible scientific collaboration using computational and ecoinformatics approaches.
 
+**Methods**   
+Data-driven approaches to ecological questions (ecoinformatics) require the use of computationally intensive methods, but have been an increasingly valuable tool for biodiversity/ecological research [@michener2012ecoinformatics].  Ecoinformatics/macroecological approaches use large quantities of ecological data, often aggregated from the literature or from large survey efforts to address ecological questions using a comparative statistical approach [@brown1995macroecology; @kelling2009data], an approach well suited for addresssing my objectives.
 
-###Objective 1
-Determine which spatial and temporal scales are organismally relevant.  
+**Data**  
+While there are challenges of using synthetic and publicly available datasets [see @reichman2011challenges], using a diverse array of publicly available datasets allows ecologists to leverage existing data to answer questions using a comparative approach.
 
-###Objective 2 
-Identify the scales over which space-for-time substitutions can be made. 
+I will use currently existing datasets, in addition to compiling a database, which will be made publicly available after quality assurance/control testing has been completed.
 
-
-###Objective 3
-Identify strengths of ecological processes at different spatial and temporal scales.
-
-<!--###Objective 4
-Identify how life history/functional traits (like body size, but also things like trophic level, storage effect related traits help partition the spatial and temporal scales that are organismally relevant.-->
-
-##Methods
-Geographic ranges- migratory vs. non-migratory species.  
-
-
-###Data
-Pre-existing datasets.
-Retriever
-
-Compiled data from the literature.
-Need for additional database.  Database of vertebrate home ranges contains a relatively small subset of vertebrate diversity.  I will compile additional home range data from the literature.  
-
-###Analysis
-Completely reproducible.  Command line Retriever | Extract and process data with postgres in Python | Analysis in R| Output results & graph
-
-<!--R seems to have some good packages already, and reinventing the wheel is probably a bad idea.-->
-
-##Training objectives  
-Training in ecological software development and spatial and temporal analytical techniques will complement and increase my current skill set and areas of expertise.  My doctoral research focused on using ecoinformatics and maximum likelihood methods with Python programming to test competing models of species abundance distributions.  I have limited experience with spatial and temporal analysis or programming in R, the primary statistical programming language used by ecologists.  This project would give me strong training in temporal and spatial analysis, experience in developing software in a programming language (R) that will make it easier for me to collaborate with other ecologists in future, and develop connections with colleagues in working with programming, statistics, and community ecology.  I will receive training in these skills through textbooks, computational resources, and mentoring.     
-
-
-##Future directions/career development
-<!--3) training objectives and plan for achieving them (these may include scientific as well as other career preparation activities)-->
-
-Independent researcher  
-
-Despite challenges of chronic illness, I am able to remain an active researcher through a series of coping mechanisms.  Besides contributing to the scientific process through research, I have been working and will continue to work to increase accessibility and awareness for chronically ill/disabled ecologists and ecologists from other under-represented groups. 
-
-#Career development
-<!--4) an explanation of how the fellowship activities will enhance your career development and future research directions as well as describing how this research differs from your dissertation research-->
-
-The combination of computational, ecoinformatics, and quantitative skills is  a rare skill set among ecologists, and one that is particularly well suited to working remotely.  Developing these skills further while engaging in remote collaborations with scientists at other institutions will provide a clear demonstration that telecommuting and remote collaboration should be a more accepted method for employment in the sciences, much as it is in the computer/tech fields.  This paradigm shift supports not only scientists with disabilities/chronic illness, but also scientists who do not have the funds for travel, or who are caretakers of small children or other family members.  In addition, developing these skills also provides a way for me to continue doing science without formal institutional support if necessary.  
+**Analysis** 
+<!--While a comparative approach can be a powerful approach for addressing broad ecological questions, the data needed to address these types of questions does not lend itself well to traditional hypothetico-deductive methods [@blackburn2004method].-->  
+**Objective 1: Compile emergent traits database.**  
+<!--Need to clearly define what traits that I want to use.  A table here would be good--> To unify relative and absolute scale, I will compile a database of emergent species traits that addresses the gap in the currently available data. Emergent species traits, like home and geographic range size, are environmentally mediated traits that are a species-specific interaction of life history traits with current environmental conditions. These traits are measured in terms of absolute scale (e.g., square kilometers) but relate to relative scale (e.g. local, regional). Providing a central, open access resource for these species parameters will provide a new, valuable resource for macroecological comparisons, often constrained due to a lack of centralized, quality controlled data. While there are some pre-existing datasets that provide information on species parameters and life history traits at different spatial and temporal scales, [@gargantobase; @pantheria; @tamburello2015energy], the data do not exist in a single database and there is a great deal of information that can be gleaned from the literature to add to the currently available data.  I am well suited to addressing this need, having worked on two large ecoinformatics databases as a doctoral student [@gargantobase; @MiscDB].  
  
+**Objective 2: Derive a model for unifying absolute and relative scales.**    
+Although ecologists have been aware for a long time of the need to predict across scales[@turner1989predicting; @levin1992problem], developing general scaling rules has met with little success [@wu1999hierarchy].  Deriving a general relationship between relative and absolute scale across taxa will provide guidelines for assessing data-deficient species and provide additional information for conservation planning (e.g. for organizations such as the Intergovernmental Panel on Biodiversity and Ecosystem Services [IPBES; @tallis2012global] and the Group on Earth Observations Biodiversity Observation Network [GEO BON; scholes2012building][@perrings2011biodiversity; @schmeller2015towards].  I will develop an scaling relationship for unifying absolute and relative scales, parameterizing the model with the database compiled in objective 1.  
 
-##Justification of sponsor(s) and host institution(s)
+Terrestrial vertebrates are a well-studied group with the most complete species-specific data, making those groups (birds, mammals, reptiles, amphibians) a good place to begin developing a general relationship between absolute and relative scale.  I will begin with graphical analysis on a subset of the data to provide a first approximation of the general form of the relationship and refine the model by applying maximum likelihood estimation, using the remaining data for model verification and goodness-of fit testing [@bolker2008ecological]. I will then try to extend the model using additional data from more data-deficient taxa, and determine how model performance degrades.
+
+**Objective 3: Identify the scales over which space-for-time substitutions can be made.**     
+Space-for-time substitutions are based on the assumption that observing changes through space serves as a reasonable proxy for changes that are likely to occur through time[@pickett1989space]. Space-for-time substitutions have been used to for fore- or hindcasting or changes in community composition when spatial data, but not temporal data, are available [@blois2013space]. Although space-for-time substitutions have been used in ecology with varying degrees of efficacy, the scales identified as potentially useful for space-for-time substitutions have been defined in relative terms (i.e., local, regional)([@pickett1989space; @blois2013space]. I will use the model I will develop for unifying absolute and relative scales to identify relative scales in absolute scales to provide of space-for-time substitutions and devise a framework for when this approach can be appropriately applied in ecological forecasting.
+
+I will use spatially and temporally explicit community abundance data from across the tree of life, from large, publicly available datasets including birds [@BBS], plants[@fia], microbes [@meyer2008metagenomics] etc., in addition to other smaller publicly available datasets [@MiscDB] and datasets that can be obtained on request.  Community abundance data will allow me to use changes in community composition over time (turnover) to determine over what absolute scales the relationship between space and time is reliable and appropriate. 
+
+Because ecological data is 'noisy', I will use generalized dissimilarity modelling (GDM)[@ferrier2007GDM], a distance approach to quantifying and testing species turnover to generate models for spatial and temporal turnover respectively, then use ranged major axis (RMA) regression to test the performance of the models relative to one another. I will take a two-pronged approach to testing, first generating and testing idealized simulated turnover data to determine how space-for-time substitutions perform under ideal conditions, and then test with empirical data, to determine how well they perform with empirical data of varying noise/quality.
+
+
+**Broader impacts**  
+<!--7)a separate section within the narrative, a discussion of the broader impacts of the proposed activities.-->
+Structural inequalities are the main barrier to participation by under-represented groups. The need to self-advocate to improve structural inequalities and obtain access as a member of an under-represented group is a frustrating activity that causes many people to leave the field entirely, or select a different field with fewer barriers. While many people belong to more than one category of under-represented group, one category of under-representation frequently overlooked is people with chronic illness/disabilities, who are particularly impacted by a physical lack of access in addition to a social lack of access.
+
+I propose to reduce structural inequalities and barriers to participation for people with disabilities using currently existing tools and technology to **1)** reduce structural inequalities/barriers through education and **2)** broadening participation through tools and technology.
+
+**Reducing structural inequalities/barriers through education**     
+Misconceptions and a lack of familiarity about disabilities and the nature of disability means that accessibility accommodations tend to be post-hoc, and cause the vast majority of current efforts to provide accessibility to chronically ill/disabled people in science to be inadequate or non-existent.  Educating people about the different types of disability and persuading people to provide accommodations without request for workshops, conferences, and for regular coursework will reduce the structural inequalities/barriers associated with being a person with a chronic illness disability.  Providing these accommodations in advance also helps individuals who could benefit from the accommodations for other situations (e.g., pregnancy, undergraduate working through college, caretakers of family members, people with temporary disabilities, etc.)  
+
+I will work with the Ecological Society of America Early Career, Open Science, and Inclusive Ecology sections to create open access webinars and templates to educate people about how to reduce structural inequalities by making accommodations available before they are needed and publicizing that fact.  In addition, I have been active, and will continue my efforts, to bring awareness to structural inequalities and barriers associated with being a scientist with a disability/chronic illness and providing solutions to include people with disabilities/chronic illness through blog posts, social media, developing tools to assist in integrating accessibility planning into workshops/events, and reaching out to organizations in my field. 
+
+**Broadening participation through tools and technology**   
+Computational tools and techniques becoming increasingly more important in science, and having the opportunity to learn these skills has been primarily restricted to in-person workshops, classes, or events at larger institutions, yet it is a powerful way for scientists who cannot participate in field work to pursue science.  At my urging, both the Data Carpentry and Software Carpentry organizations have made certain that disability accessibility for workshops are an essential part of workshop planning and available accommodations are included in workshop announcements.  As a Software Carpentry/Data Carpentry instructor, I will work with both of these organizations to expand their accessibility efforts in developing, testing and teaching remotely accessible workshops. 
+
+Remote accessibility also provides options for mentoring potential future generations of scientists.  I will also serve as a mentor for K-12 students with a disability/chronic illness through the AccessSTEM DO-IT program at the University of Washington, which facilitates an online mentoring program.
+
+**Training objectives and career development**
+<!--3) training objectives and plan for achieving them (these may include scientific as well as other career preparation activities)-->    
+Training in spatial and temporal analytical techniques and model building/testing will complement my current skill set in ecoinformatics and computational ecology.  I have a strong background in computational ecology and ecoinformatic and macroecological techniques through my doctoral work, which used a data-intensive, maximum likelihood based approach to compare species abundance distribution models, but limited experience with model development and spatially/temporally explicit approaches. This project will give me strong training in cutting edge temporal and spatial analysis, model development and testing, experience in developing and testing software in an additional programming language (R), and further experience in ecoinformatics.  I will receive training in these skills through textbooks, remote training opportunities (webinars, online training/classes, remote attendance), and mentoring.  
+<!--4) an explanation of how the fellowship activities will enhance your career development and future research directions as well as describing how this research differs from your dissertation research--> 
+I am committed to remaining an active scientist despite challenges of chronic illness.  The combination of computational, ecoinformatics, and quantitative skills is  a rare skill set among ecologists, and one that is particularly well suited to working remotely. Developing these skills further while engaging in remote collaborations with scientists at other institutions will provide a clear demonstration that telecommuting and remote collaboration should be a more accepted method for employment in the sciences, much as it is in the computer/tech fields.  
+
+This paradigm shift supports not only scientists with disabilities/chronic illness, but also supports scientists who need to work remotely for a variety of reasons.  Increasing my computational, quantitative, and ecoinformatics skills will provide me with the maximum opportunity to continue performing research and collaborate with other scientists remotely, without formal institutional support if necessary.  
+ 
+**Justification of sponsor(s) and host institution(s)**   
 <!--5) a justification of the choice of sponsoring scientist(s) and host institution(s)-->
 <!-- Description of awesome people with the skills and ideas that I want to work with-->
-*Timothée Poisot (University of Montreal)-computational ecology*
-Poisot's research interests and skills make him an ideas sponsor for both the intellectual development and implementation of this project as well as an excellent mentor for developing and refining the computational skills that are an essential component of my training objectives.  **Poisot** is an Assistant Professor in the Department of Biological Sciences and is a member of the Quebec Centre for Biodiversity Science.  He is a strong advocate for open and reproducible science and his lab is heavily involved in creating well designed software for ecological analyses.  In additional to Poisot's computational expertise that will facilitate remote mentorship, the University of Montreal has extensive remotely accessible computational resources and offers webinar training for using the high-performance computing resources.
+*Timothée Poisot (University of Montreal)-computational ecology & James O'Dwyer (University of Illinois)-theoretical ecology* 
+In addition to their scientific expertise and skills that make them ideal sponsors for both the intellectual development and implementation of this project, Poisot and O'Dwyer are experienced and comfortable with the computational tools and remote workflow that I need to collaborate with them, thus relieving me of the need to train my sponsors in the tools I need to use to work with them effectively. **Poisot** is an Assistant Professor in the Department of Biological Sciences and is a member of the Quebec Centre for Biodiversity Science.  He is a strong advocate for open and reproducible science and his lab is heavily involved in creating well designed software for ecological analyses.  In addition, the University of Montreal has extensive remotely accessible computational resources and offers webinar training for using the high-performance computing resources.**O'Dwyer** is an Assistant Professor in the Department of Plant Biology.  He is a highly quantitative theoretical ecologist who also possess a high degree of computational skills.
 
+I am a chronically ill/disabled scientist.  Due to my physical limitations, I will be interacting with colleagues on-site through a remote presence via a Kubi teleconferencing robot (https://www.revolverobotics.com/), in addition to my normal remote computational workflow.   
 
-<!--Final paragraph-->Due to my physical limitations, I will not be able to be physically present at the host institutions; however, I will be able to interact with colleagues on-site through a remote presence via a Kubi teleconferencing robot (https://www.revolverobotics.com/), which will allow me to have control over my movement on site, leading to more natural interactions.  Additionally, all the sponsoring scientists are well-versed in the computational tools and workflow that make it possible for me to effectively collaborate with others remotely.  
-
-   
-##Goals and benchmarks
+**Goals and benchmarks**   
 <!--6) a timetable with yearly goals with benchmarks for major anticipated outcomes; -->
-##Timeline
-| Timeline | Scientific Objectives | Broadening Participation Objectives | Communication of results |
-|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Year 1 | Phase 1: Design and compile animal home range database from the literature, prepare and process additional datasets for analysis.  Write analysis code and begin preliminary analysis for research objectives. | Communicate with Software and Data Carpentry and begin development and testing of remote workshop access.  Develop and blog about the implementation of tools and technology to facilitate remote collaboration. Be an AccessSTEM DO-IT mentor.  | Attend and present results at scientific meetings.  Submit initial publications.  Code, data, presentations, preprints will be fully open (GitHub, figshare, arXiv/bioRxiv). |
-| Year 2 | Phase 2: Finalize analyses for all objectives, disseminate results.  Make sure that the results of the analyses are completely reproducible from a single bash file that will call the rest of the scripts, from data downloading/processing through analysis to graphing. | Remotely teach Software/Data Carpentry workshops to remote participants.  Continue blogging efforts to increase awareness/provide tools for pursuing science with a chronic illness/disability. Continue serving as an AccessSTEM DO-IT mentor. | Submit remaining publications.  Archive publication versions of code via Zenodo.  Communicate results at meetings. |
+\begin{tabular}{p{.1\linewidth} p{.23\linewidth} p{.4\linewidth} p{.27\linewidth}}
+\hline
+\textbf{Timeline} & \textbf{Scientific Objectives}                                                                                                                                                                                                                                                       & \textbf{Broadening Participation}                                                                                                                                                                                                                                                                                                                                  & \textbf{Communication of Results}                                                                                                                                  \\ \hline
+Year 1            & Phase 1: Design/compile home range database from literature. Generate metadata in human and machine readable formats.  Perform QA/QC.  Prepare and process additional datasets.                                                                                                      & Begin development of remote workshop access and teaching options with Software /Data Carpentry.  Develop webinars and perform outreach for integrating disability accommodations as part of teaching, workshops, conferences, talks with Ecological Society of America sections. Serve as AccessSTEM DO-IT mentor.                                                & Present dataset at scientific meetings. Submit dataset for publication. Code, data, presentations, preprints will be fully open (GitHub, figshare, arXiv/bioRxiv). \\ 
+Year 2            & Phase 2: Write analysis code, begin exploration of relationship between relative and absolute scale.  Parameterize, test relative/absolute scale model.                                                                                                       & Continue testing and begin teaching Software/Data Carpentry. Continue working to improve accessibility with organizations/sections.  Develop/blog about implementation of tools/technology to facilitate remote collaboration. Continue serving as AccessSTEM DO-IT mentor. & Submit publication for relative/absolute scale paper. Archive publication versions of code. Communicate results at meetings.                          \\ 
+Year 3            & Phase 3: Develop simulations , perform testing of space-for-time problem with simulated and empirical data. & Remotely teach Software/Data Carpentry workshops to remote participants. Continue working with organizations/ sections to improve accessibility.  Continue serving as AccessSTEM DO-IT mentor.                                                                                                                       & Submit remaining publication(s) on space-for-time substitutions.  Archive publication versions of code. Communicate results at meetings.                  \\ \hline
+\end{tabular}
+\pagebreak  
 
-
-Learn more spatial analysis techniques.
-
-Learn temporal analysis techniques.
-
-I want to continue to improve my scientific programming skills.
-
-##Broader impacts
-<!--7)a separate section within the narrative, a discussion of the broader impacts of the proposed activities.-->
-<!--Inadequacy of current efforts to include chronically ill researchers.-->
-###Overview
-Working to improve opportunities and address structural inequalities to broaden participation for under-represented groups is, unfortunately part of being a member of an under-represented group.  Having to self-advocate to improve structural inequalities and to obtain access as a member of an under-represented group (in my case, a scientist with a chronic illness) robs researchers of valuable and limited time and energy that they could use to be actually doing science.One category of under-representation that is frequently overlooked is scientists who are facing short or long-term disability due to health conditions, either mental or physical.
- 
-A lack of familiarity with disability/chronic illness means that accessibility accommodations tend to be post-hoc, and cause the vast majority of current efforts to provide accessibility to chronically ill/disabled scientists to be inadequate or non-existent. I have been active in bringing awareness to both the problems associated with being a scientist with disability/chronic illness as well as providing solutions to include scientists with disabilities/chronic illness through blog posts and social media. 
- <!--A chronically ill researcher is working with less energy, and less physical capacity than an able bodied scientist.  While dealing with a failing body, a scientist should not also have to fight the numerous institutional barriers to remaining an active participant in science.-->    
-Chronic illness is only one of the many under-represented groups in science, and many scientists belong to more than one category of under-represented group.  A more inclusive approach to broadening participation of under-represented groups is taking an intersectional approach to under-representation.  I propose to use currently existing tools and technology to improve access for many categories of under-represented group through creating a framework for remote access tools for collaboration as well as remote options for learning to use those tools.  
-
-Remote scientific collaborations have been a way to facilitate participation by under-represented groups for a long time ( for example, women corresponding with male scientists through letters, only using their first initial).  Having a better framework to guide remote collaboration and participation can increase participation for scientists with disability/chronic illness, scientists from primarily undergraduate institutions, and scientists who lack the means to travel.  
-
-###Broadening participation through tools and technology
-Open science is also a powerful tool for increasing the accessibility of science for many different underrepresented groups, not only chronically ill/disabled researchers.  For example, people at primarily undergraduate institutions or who are unaffiliated with an institution often lack access to the funding and resources that larger institutions have.  An open approach to science allows access and sharing of educational tools and lessons, data, and papers that would be difficult or impossible to acquire otherwise.  Remote work, combined with open science approaches helps to equalize the conditions for primarily undergraduate institutions and researchers doing computational work, allowing them to remain more competitive with researchers at larger institutions, as well as create opportunities for communicating science to under-represented groups at the K-12 levels through developing lessons and outreach tools.
-
-<!--Plan for teaching these skills.-->
-Computational tools and techniques becoming increasingly more important in science, and having the opportunity to learn these skills has, so far, been primarily restricted to in-person workshops, classes, or events at larger institutions.  At my urging, both the Data Carpentry and Software Carpentry organizations plan to develop and provide remote accessibility to workshops, as well as making certain that disability accessibility for workshops are an essential part of workshop planning and available accommodations are included in workshop announcements.  Having remote accessibility means that scientists who are unable to travel due to financial, physical, or other limitations can still participate in learning the tools that they need to collaborate and remain competitive.  Remote options also allow scientists who cannot travel to participate in sharing their skills, and train the next generation of scientists.
-
-   
-
-
-<!--Tools that a chronically ill researcher can use to remain active in the field. -->
-As a chronically ill researcher, I have found that computational tools have been invaluable in allowing me to continue working as an active researcher.  Not only do these skills make remote collaboration much easier/possible, these tools also make executing research much easier.  I will also become involved with the AccessSTEM DO-IT (Disabilities, Opportunities, Internetworking, and Technology) program at the University of Washington as a mentor for disabled K-12 students.
-
-
-
-
-I have also been active in disclosing my illness and trying to raise awareness about chronically ill/disabled researchers.
-
+**References**
